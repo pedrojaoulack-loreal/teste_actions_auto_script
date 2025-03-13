@@ -13,17 +13,13 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          fetch-depth: 0  # Importante: Buscar todo o histórico
+          fetch-depth: 0
           persist-credentials: false
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.10'
-      - name: Install dependencies
-        run: |
-          pip install requests beautifulsoup4
+
+      # ... (Seus passos de configuração do Python e instalação de dependências)
+
       - name: Delete existing data file (if any)
-        run: rm -f dados.txt  # Remove se o arquivo já existir
+        run: rm -f dados.txt
 
       - name: Run script
         run: python seu_script_de_scraping.py
@@ -39,9 +35,12 @@ jobs:
       - name: Commit changes
         run: git commit -m "Atualização automática de dados" || echo "No changes to commit"
 
-      - name: Push changes
-        uses: ad-m/github-push-action@master # Ação para push
+      - name: Pull latest changes before push (Crucial!)
+        run: git pull origin main --rebase  # Atualiza antes do push
+
+      - name: Push changes (force-with-lease para segurança)
+        uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: main
-          force: true # Use com cuidado!
+          force-with-lease: true  # Mais seguro que 'force: true'
