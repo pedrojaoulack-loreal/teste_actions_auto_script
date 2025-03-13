@@ -1,31 +1,33 @@
 name: Web Scraping e Armazenamento
 
-on:
-  schedule:
-    - cron: '0 * * * *' # Executa a cada hora
-  workflow_dispatch:
+   on:
+     schedule:
+       - cron: '0 * * * *'
+     workflow_dispatch:
 
-permissions:
-  contents: write  #  Permissão crucial para fazer push
+   permissions:
+     contents: write
 
-jobs:
-  scrape:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-        with:
-          persist-credentials: false # Importante para evitar problemas de permissão
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.10'
-      - name: Install dependencies
-        run: |
-          pip install requests beautifulsoup4
-      - name: Run script
-        run: python seu_script_de_scraping.py
-      - name: Commit changes
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: "Atualização automática de dados"
-          file_pattern: dados.txt
+   jobs:
+     scrape:
+       runs-on: ubuntu-latest
+       steps:
+         - uses: actions/checkout@v3
+           with:
+             persist-credentials: false
+         - name: Set up Python
+           uses: actions/setup-python@v4
+           with:
+             python-version: '3.10'
+         - name: Install dependencies
+           run: |
+             pip install requests beautifulsoup4
+         - name: Delete existing data file (if exists)  # Nova linha
+           run: rm -f dados.txt
+         - name: Run script
+           run: python seu_script_de_scraping.py
+         - name: Commit changes
+           uses: stefanzweifel/git-auto-commit-action@v4
+           with:
+             commit_message: "Atualização automática de dados"
+             file_pattern: dados.txt
