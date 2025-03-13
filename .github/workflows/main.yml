@@ -8,11 +8,12 @@ on:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    permissions:  # <- Correção: Movido para dentro do job
+    permissions:
       contents: write
     steps:
       - uses: actions/checkout@v3
         with:
+          fetch-depth: 0  # Importante: Buscar todo o histórico
           persist-credentials: false
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -21,12 +22,26 @@ jobs:
       - name: Install dependencies
         run: |
           pip install requests beautifulsoup4
-      - name: Delete existing data file (if exists)
-        run: rm -f dados.txt
+      - name: Delete existing data file (if any)
+        run: rm -f dados.txt  # Remove se o arquivo já existir
+
       - name: Run script
         run: python seu_script_de_scraping.py
+
+      - name: Configure Git
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+
+      - name: Add changed files
+        run: git add dados.txt
+
       - name: Commit changes
-        uses: stefanzweifel/git-auto-commit-action@v4
+        run: git commit -m "Atualização automática de dados" || echo "No changes to commit"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master # Ação para push
         with:
-          commit_message: "Atualização automática de dados"
-          file_pattern: dados.txt
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
+          force: true # Use com cuidado!
