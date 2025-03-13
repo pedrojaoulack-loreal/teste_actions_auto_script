@@ -1,0 +1,26 @@
+name: Web Scraping e Armazenamento
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Executa a cada hora
+  workflow_dispatch: # Permite executar manualmente
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10' # Versão do Python
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4 # Instale as bibliotecas necessárias
+      - name: Run script
+        run: python seu_script_de_scraping.py
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Atualização automática de dados"
+          file_pattern: dados.txt # Adicione outros arquivos se necessário
