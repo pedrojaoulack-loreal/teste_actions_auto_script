@@ -20,3 +20,4 @@ Dados coletados em: 2025-03-14 12:20:33.820852
 Dados coletados em: 2025-03-14 13:18:57.410721
 Dados coletados em: 2025-03-14 14:10:42.983646
 Dados coletados em: 2025-03-14 15:11:34.449189
+Dados coletados em: 2025-03-14 16:13:29.164862
