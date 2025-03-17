@@ -81,3 +81,4 @@ Dados coletados em: 2025-03-17 04:14:07.265247
 Dados coletados em: 2025-03-17 05:12:02.743219
 Dados coletados em: 2025-03-17 06:16:37.611972
 Dados coletados em: 2025-03-17 07:11:53.504682
+Dados coletados em: 2025-03-17 08:16:17.766004
