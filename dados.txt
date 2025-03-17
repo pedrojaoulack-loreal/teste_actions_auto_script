@@ -92,3 +92,4 @@ Dados coletados em: 2025-03-17 15:12:06.369695
 Dados coletados em: 2025-03-17 16:14:53.430002
 Dados coletados em: 2025-03-17 17:10:35.047546
 Dados coletados em: 2025-03-17 18:15:47.011331
+Dados coletados em: 2025-03-17 19:09:17.767470
