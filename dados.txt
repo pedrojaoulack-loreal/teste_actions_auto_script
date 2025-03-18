@@ -109,3 +109,4 @@ Dados coletados em: 2025-03-18 09:12:49.888524
 Dados coletados em: 2025-03-18 10:12:06.998763
 Dados coletados em: 2025-03-18 11:09:49.746199
 Dados coletados em: 2025-03-18 12:21:40.533482
+Dados coletados em: 2025-03-18 13:21:07.886977
