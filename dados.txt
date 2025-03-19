@@ -120,3 +120,4 @@ Dados coletados em: 2025-03-18 20:11:25.395485
 Dados coletados em: 2025-03-18 21:10:19.872546
 Dados coletados em: 2025-03-18 22:10:36.594638
 Dados coletados em: 2025-03-18 23:10:36.328685
+Dados coletados em: 2025-03-19 00:54:38.253441
