@@ -149,3 +149,4 @@ Dados coletados em: 2025-03-20 03:22:47.339791
 Dados coletados em: 2025-03-20 04:14:04.994218
 Dados coletados em: 2025-03-20 05:11:39.244852
 Dados coletados em: 2025-03-20 06:16:20.196478
+Dados coletados em: 2025-03-20 07:11:27.038747
