@@ -155,3 +155,4 @@ Dados coletados em: 2025-03-20 09:12:28.942559
 Dados coletados em: 2025-03-20 10:12:34.837177
 Dados coletados em: 2025-03-20 11:09:52.777113
 Dados coletados em: 2025-03-20 12:21:46.974307
+Dados coletados em: 2025-03-20 13:20:09.750344
