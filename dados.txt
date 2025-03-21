@@ -168,3 +168,4 @@ Dados coletados em: 2025-03-20 22:10:26.333011
 Dados coletados em: 2025-03-20 23:10:47.919101
 Dados coletados em: 2025-03-21 00:55:00.031378
 Dados coletados em: 2025-03-21 02:20:22.490472
+Dados coletados em: 2025-03-21 03:24:42.740393
