@@ -190,3 +190,4 @@ Dados coletados em: 2025-03-21 21:09:54.889350
 Dados coletados em: 2025-03-21 22:11:01.241250
 Dados coletados em: 2025-03-21 23:10:38.433389
 Dados coletados em: 2025-03-22 00:53:25.043634
+Dados coletados em: 2025-03-22 02:17:00.425084
