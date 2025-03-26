@@ -303,3 +303,4 @@ Dados coletados em: 2025-03-26 19:09:27.047991
 Dados coletados em: 2025-03-26 20:13:07.825964
 Dados coletados em: 2025-03-26 21:10:33.950179
 Dados coletados em: 2025-03-26 22:10:34.641021
+Dados coletados em: 2025-03-26 23:11:15.222020
