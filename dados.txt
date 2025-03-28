@@ -329,3 +329,4 @@ Dados coletados em: 2025-03-27 22:10:28.846707
 Dados coletados em: 2025-03-27 23:11:18.083666
 Dados coletados em: 2025-03-28 00:54:52.517940
 Dados coletados em: 2025-03-28 02:22:10.654325
+Dados coletados em: 2025-03-28 03:27:10.995563
