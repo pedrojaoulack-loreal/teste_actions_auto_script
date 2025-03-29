@@ -370,3 +370,4 @@ Dados coletados em: 2025-03-29 17:09:25.838657
 Dados coletados em: 2025-03-29 18:13:45.555886
 Dados coletados em: 2025-03-29 19:08:19.997956
 Dados coletados em: 2025-03-29 20:11:19.413202
+Dados coletados em: 2025-03-29 21:09:53.995111
