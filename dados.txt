@@ -428,3 +428,4 @@ Dados coletados em: 2025-04-01 07:12:12.170286
 Dados coletados em: 2025-04-01 08:15:55.797931
 Dados coletados em: 2025-04-01 09:13:04.640110
 Dados coletados em: 2025-04-01 10:13:05.603460
+Dados coletados em: 2025-04-01 11:10:01.508621
