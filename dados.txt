@@ -451,3 +451,4 @@ Dados coletados em: 2025-04-02 07:12:01.769441
 Dados coletados em: 2025-04-02 08:15:51.832541
 Dados coletados em: 2025-04-02 09:12:43.236024
 Dados coletados em: 2025-04-02 10:12:37.556602
+Dados coletados em: 2025-04-02 11:09:53.552909
