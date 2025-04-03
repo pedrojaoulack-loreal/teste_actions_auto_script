@@ -480,3 +480,4 @@ Dados coletados em: 2025-04-03 13:21:54.116952
 Dados coletados em: 2025-04-03 14:11:32.695882
 Dados coletados em: 2025-04-03 15:11:16.829288
 Dados coletados em: 2025-04-03 16:13:58.358794
+Dados coletados em: 2025-04-03 17:10:35.858546
