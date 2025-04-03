@@ -478,3 +478,4 @@ Dados coletados em: 2025-04-03 11:10:57.928804
 Dados coletados em: 2025-04-03 12:22:03.588410
 Dados coletados em: 2025-04-03 13:21:54.116952
 Dados coletados em: 2025-04-03 14:11:32.695882
+Dados coletados em: 2025-04-03 15:11:16.829288
