@@ -514,3 +514,4 @@ Dados coletados em: 2025-04-05 00:54:21.330053
 Dados coletados em: 2025-04-05 02:19:15.130524
 Dados coletados em: 2025-04-05 03:24:40.044017
 Dados coletados em: 2025-04-05 04:13:14.088042
+Dados coletados em: 2025-04-05 05:12:05.443237
