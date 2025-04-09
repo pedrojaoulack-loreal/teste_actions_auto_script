@@ -615,3 +615,4 @@ Dados coletados em: 2025-04-09 10:14:22.961799
 Dados coletados em: 2025-04-09 11:10:20.818715
 Dados coletados em: 2025-04-09 12:22:07.789858
 Dados coletados em: 2025-04-09 13:23:18.574466
+Dados coletados em: 2025-04-09 14:12:24.953828
