@@ -604,3 +604,4 @@ Dados coletados em: 2025-04-08 22:10:44.791438
 Dados coletados em: 2025-04-08 23:10:54.688498
 Dados coletados em: 2025-04-09 00:55:40.004571
 Dados coletados em: 2025-04-09 02:23:44.587423
+Dados coletados em: 2025-04-09 03:28:19.310777
