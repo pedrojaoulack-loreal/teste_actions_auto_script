@@ -639,3 +639,4 @@ Dados coletados em: 2025-04-10 11:10:02.982880
 Dados coletados em: 2025-04-10 12:22:09.390801
 Dados coletados em: 2025-04-10 13:22:27.733975
 Dados coletados em: 2025-04-10 14:11:48.986251
+Dados coletados em: 2025-04-10 15:12:45.289531
