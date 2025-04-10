@@ -643,3 +643,4 @@ Dados coletados em: 2025-04-10 15:12:45.289531
 Dados coletados em: 2025-04-10 16:14:06.095884
 Dados coletados em: 2025-04-10 17:10:38.542807
 Dados coletados em: 2025-04-10 18:15:51.607618
+Dados coletados em: 2025-04-10 19:09:37.548428
