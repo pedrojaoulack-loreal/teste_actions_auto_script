@@ -660,3 +660,4 @@ Dados coletados em: 2025-04-11 09:12:38.136549
 Dados coletados em: 2025-04-11 10:12:34.466155
 Dados coletados em: 2025-04-11 11:09:57.586365
 Dados coletados em: 2025-04-11 12:22:13.537885
+Dados coletados em: 2025-04-11 13:21:23.003737
