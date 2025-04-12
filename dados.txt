@@ -690,3 +690,4 @@ Dados coletados em: 2025-04-12 16:12:25.835981
 Dados coletados em: 2025-04-12 17:09:36.127309
 Dados coletados em: 2025-04-12 18:13:57.805255
 Dados coletados em: 2025-04-12 19:09:30.217783
+Dados coletados em: 2025-04-12 20:11:26.805219
