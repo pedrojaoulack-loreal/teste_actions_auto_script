@@ -801,3 +801,4 @@ Dados coletados em: 2025-04-17 14:11:29.518264
 Dados coletados em: 2025-04-17 15:12:10.367997
 Dados coletados em: 2025-04-17 16:14:33.831654
 Dados coletados em: 2025-04-17 17:10:17.350680
+Dados coletados em: 2025-04-17 18:15:56.387889
