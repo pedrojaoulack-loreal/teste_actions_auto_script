@@ -805,3 +805,4 @@ Dados coletados em: 2025-04-17 18:15:56.387889
 Dados coletados em: 2025-04-17 19:09:09.828515
 Dados coletados em: 2025-04-17 20:12:54.307263
 Dados coletados em: 2025-04-17 21:10:55.797699
+Dados coletados em: 2025-04-17 22:10:43.073240
