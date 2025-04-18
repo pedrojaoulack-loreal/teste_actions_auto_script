@@ -808,3 +808,4 @@ Dados coletados em: 2025-04-17 21:10:55.797699
 Dados coletados em: 2025-04-17 22:10:43.073240
 Dados coletados em: 2025-04-17 23:11:12.072814
 Dados coletados em: 2025-04-18 00:55:35.495033
+Dados coletados em: 2025-04-18 02:21:44.603953
