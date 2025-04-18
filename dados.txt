@@ -829,3 +829,4 @@ Dados coletados em: 2025-04-18 19:08:56.933589
 Dados coletados em: 2025-04-18 20:12:20.380924
 Dados coletados em: 2025-04-18 21:10:19.293543
 Dados coletados em: 2025-04-18 22:10:35.736053
+Dados coletados em: 2025-04-18 23:11:06.788806
