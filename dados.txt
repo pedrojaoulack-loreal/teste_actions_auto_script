@@ -849,3 +849,4 @@ Dados coletados em: 2025-04-19 16:13:39.519429
 Dados coletados em: 2025-04-19 17:10:00.572905
 Dados coletados em: 2025-04-19 18:13:35.558417
 Dados coletados em: 2025-04-19 19:09:51.452161
+Dados coletados em: 2025-04-19 20:11:39.770940
