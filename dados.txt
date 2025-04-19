@@ -840,3 +840,4 @@ Dados coletados em: 2025-04-19 07:10:20.068547
 Dados coletados em: 2025-04-19 08:13:34.988907
 Dados coletados em: 2025-04-19 09:11:05.461284
 Dados coletados em: 2025-04-19 10:11:10.975632
+Dados coletados em: 2025-04-19 11:09:47.881076
