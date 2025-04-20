@@ -873,3 +873,4 @@ Dados coletados em: 2025-04-20 18:14:04.638812
 Dados coletados em: 2025-04-20 19:09:34.441871
 Dados coletados em: 2025-04-20 20:11:56.224187
 Dados coletados em: 2025-04-20 21:09:57.155959
+Dados coletados em: 2025-04-20 22:10:21.964792
