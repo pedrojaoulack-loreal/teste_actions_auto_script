@@ -892,3 +892,4 @@ Dados coletados em: 2025-04-21 14:10:58.098292
 Dados coletados em: 2025-04-21 15:12:14.590269
 Dados coletados em: 2025-04-21 16:13:57.870144
 Dados coletados em: 2025-04-21 17:10:05.229693
+Dados coletados em: 2025-04-21 18:15:52.977738
