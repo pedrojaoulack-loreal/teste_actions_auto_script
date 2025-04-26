@@ -1001,3 +1001,4 @@ Dados coletados em: 2025-04-26 08:13:58.494546
 Dados coletados em: 2025-04-26 09:11:12.048042
 Dados coletados em: 2025-04-26 10:11:12.422642
 Dados coletados em: 2025-04-26 11:08:51.841835
+Dados coletados em: 2025-04-26 12:19:47.986940
