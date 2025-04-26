@@ -990,3 +990,4 @@ Dados coletados em: 2025-04-25 20:12:45.655292
 Dados coletados em: 2025-04-25 21:10:42.094000
 Dados coletados em: 2025-04-25 22:10:54.581109
 Dados coletados em: 2025-04-25 23:11:08.924514
+Dados coletados em: 2025-04-26 00:55:25.803600
