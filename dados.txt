@@ -1044,3 +1044,4 @@ Dados coletados em: 2025-04-28 06:25:01.650177
 Dados coletados em: 2025-04-28 07:37:44.738458
 Dados coletados em: 2025-04-28 08:36:27.812181
 Dados coletados em: 2025-04-28 10:45:31.713373
+Dados coletados em: 2025-04-28 11:31:32.838048
