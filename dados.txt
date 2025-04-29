@@ -1071,3 +1071,4 @@ Dados coletados em: 2025-04-29 11:10:23.517860
 Dados coletados em: 2025-04-29 12:24:01.448684
 Dados coletados em: 2025-04-29 13:27:32.579658
 Dados coletados em: 2025-04-29 14:12:28.612263
+Dados coletados em: 2025-04-29 15:12:38.900744
