@@ -1080,3 +1080,4 @@ Dados coletados em: 2025-04-29 20:13:18.501667
 Dados coletados em: 2025-04-29 21:10:52.094766
 Dados coletados em: 2025-04-29 22:11:04.622686
 Dados coletados em: 2025-04-29 23:11:00.857978
+Dados coletados em: 2025-04-30 00:57:41.088926
