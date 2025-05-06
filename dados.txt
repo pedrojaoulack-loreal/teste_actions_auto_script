@@ -1224,3 +1224,4 @@ Dados coletados em: 2025-05-06 07:12:13.875714
 Dados coletados em: 2025-05-06 08:17:03.146683
 Dados coletados em: 2025-05-06 09:13:07.409256
 Dados coletados em: 2025-05-06 10:12:58.381445
+Dados coletados em: 2025-05-06 11:10:12.008651
