@@ -1269,3 +1269,4 @@ Dados coletados em: 2025-05-08 06:17:59.689967
 Dados coletados em: 2025-05-08 07:12:03.562071
 Dados coletados em: 2025-05-08 08:16:30.044146
 Dados coletados em: 2025-05-08 09:12:57.722108
+Dados coletados em: 2025-05-08 10:13:30.708377
