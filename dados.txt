@@ -1400,3 +1400,4 @@ Dados coletados em: 2025-05-14 00:58:37.584904
 Dados coletados em: 2025-05-14 02:40:36.035501
 Dados coletados em: 2025-05-14 03:36:53.884113
 Dados coletados em: 2025-05-14 04:15:50.861324
+Dados coletados em: 2025-05-14 05:12:41.096797
