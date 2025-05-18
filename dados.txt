@@ -1509,3 +1509,4 @@ Dados coletados em: 2025-05-18 19:08:52.223081
 Dados coletados em: 2025-05-18 20:12:48.678432
 Dados coletados em: 2025-05-18 21:10:03.249631
 Dados coletados em: 2025-05-18 22:10:33.170176
+Dados coletados em: 2025-05-18 23:10:54.348158
