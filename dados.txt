@@ -1560,3 +1560,4 @@ Dados coletados em: 2025-05-21 02:43:13.433035
 Dados coletados em: 2025-05-21 03:37:39.691854
 Dados coletados em: 2025-05-21 04:16:26.129771
 Dados coletados em: 2025-05-21 05:12:51.667810
+Dados coletados em: 2025-05-21 06:18:01.414034
