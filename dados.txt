@@ -1803,3 +1803,4 @@ Dados coletados em: 2025-05-31 19:08:38.078261
 Dados coletados em: 2025-05-31 20:12:11.560339
 Dados coletados em: 2025-05-31 21:10:15.626458
 Dados coletados em: 2025-05-31 22:10:35.976769
+Dados coletados em: 2025-05-31 23:11:20.013257
