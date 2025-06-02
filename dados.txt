@@ -1828,3 +1828,4 @@ Dados coletados em: 2025-06-01 22:11:05.518591
 Dados coletados em: 2025-06-01 23:11:12.276637
 Dados coletados em: 2025-06-02 01:02:25.088816
 Dados coletados em: 2025-06-02 03:15:34.694821
+Dados coletados em: 2025-06-02 04:23:25.876661
