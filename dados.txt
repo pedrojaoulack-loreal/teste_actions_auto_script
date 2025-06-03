@@ -1860,3 +1860,4 @@ Dados coletados em: 2025-06-03 10:14:00.405326
 Dados coletados em: 2025-06-03 11:10:58.965586
 Dados coletados em: 2025-06-03 12:24:19.749650
 Dados coletados em: 2025-06-03 13:28:03.488103
+Dados coletados em: 2025-06-03 14:13:12.470537
