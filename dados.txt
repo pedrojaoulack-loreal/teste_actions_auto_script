@@ -1888,3 +1888,4 @@ Dados coletados em: 2025-06-04 16:14:34.482007
 Dados coletados em: 2025-06-04 17:11:25.964127
 Dados coletados em: 2025-06-04 18:17:03.383885
 Dados coletados em: 2025-06-04 19:10:12.919809
+Dados coletados em: 2025-06-04 20:11:01.695015
