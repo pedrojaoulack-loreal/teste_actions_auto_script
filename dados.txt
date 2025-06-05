@@ -1902,3 +1902,4 @@ Dados coletados em: 2025-06-05 07:12:32.012389
 Dados coletados em: 2025-06-05 08:16:55.186945
 Dados coletados em: 2025-06-05 09:13:21.770531
 Dados coletados em: 2025-06-05 10:13:54.888082
+Dados coletados em: 2025-06-05 11:11:02.290247
