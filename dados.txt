@@ -1929,3 +1929,4 @@ Dados coletados em: 2025-06-06 12:23:23.052986
 Dados coletados em: 2025-06-06 13:25:08.187295
 Dados coletados em: 2025-06-06 14:12:04.807839
 Dados coletados em: 2025-06-06 15:10:34.433271
+Dados coletados em: 2025-06-06 16:15:17.609773
