@@ -1920,3 +1920,4 @@ Dados coletados em: 2025-06-06 03:41:56.586726
 Dados coletados em: 2025-06-06 04:18:32.080265
 Dados coletados em: 2025-06-06 05:13:05.810203
 Dados coletados em: 2025-06-06 06:18:40.184831
+Dados coletados em: 2025-06-06 07:11:53.448200
