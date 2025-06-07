@@ -1941,3 +1941,4 @@ Dados coletados em: 2025-06-07 00:59:17.481544
 Dados coletados em: 2025-06-07 02:42:40.408456
 Dados coletados em: 2025-06-07 03:39:24.673608
 Dados coletados em: 2025-06-07 04:15:15.897101
+Dados coletados em: 2025-06-07 05:11:54.185366
