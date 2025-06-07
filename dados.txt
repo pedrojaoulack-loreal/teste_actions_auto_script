@@ -1955,3 +1955,4 @@ Dados coletados em: 2025-06-07 15:11:11.424306
 Dados coletados em: 2025-06-07 16:13:13.683471
 Dados coletados em: 2025-06-07 17:09:47.060718
 Dados coletados em: 2025-06-07 18:14:57.436342
+Dados coletados em: 2025-06-07 19:08:51.275946
