@@ -1938,3 +1938,4 @@ Dados coletados em: 2025-06-06 21:11:04.877784
 Dados coletados em: 2025-06-06 22:11:32.292554
 Dados coletados em: 2025-06-06 23:11:38.028967
 Dados coletados em: 2025-06-07 00:59:17.481544
+Dados coletados em: 2025-06-07 02:42:40.408456
