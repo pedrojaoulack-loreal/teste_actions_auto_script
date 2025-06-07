@@ -1958,3 +1958,4 @@ Dados coletados em: 2025-06-07 18:14:57.436342
 Dados coletados em: 2025-06-07 19:08:51.275946
 Dados coletados em: 2025-06-07 20:11:54.359365
 Dados coletados em: 2025-06-07 21:10:13.316002
+Dados coletados em: 2025-06-07 22:10:44.709940
