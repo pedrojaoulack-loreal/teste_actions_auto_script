@@ -1962,3 +1962,4 @@ Dados coletados em: 2025-06-07 22:10:44.709940
 Dados coletados em: 2025-06-07 23:11:42.436318
 Dados coletados em: 2025-06-08 01:06:00.593387
 Dados coletados em: 2025-06-08 03:18:47.069160
+Dados coletados em: 2025-06-08 04:23:54.490879
