@@ -1976,3 +1976,4 @@ Dados coletados em: 2025-06-08 14:10:08.587674
 Dados coletados em: 2025-06-08 15:11:55.318102
 Dados coletados em: 2025-06-08 16:13:24.007927
 Dados coletados em: 2025-06-08 17:09:43.228432
+Dados coletados em: 2025-06-08 18:14:39.343094
