@@ -1969,3 +1969,4 @@ Dados coletados em: 2025-06-08 07:11:06.192615
 Dados coletados em: 2025-06-08 08:14:32.299700
 Dados coletados em: 2025-06-08 09:11:10.685897
 Dados coletados em: 2025-06-08 10:11:29.826708
+Dados coletados em: 2025-06-08 11:09:19.474117
