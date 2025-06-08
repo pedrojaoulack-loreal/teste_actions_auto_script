@@ -1974,3 +1974,4 @@ Dados coletados em: 2025-06-08 12:21:16.147972
 Dados coletados em: 2025-06-08 13:20:45.460245
 Dados coletados em: 2025-06-08 14:10:08.587674
 Dados coletados em: 2025-06-08 15:11:55.318102
+Dados coletados em: 2025-06-08 16:13:24.007927
