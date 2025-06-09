@@ -1984,3 +1984,4 @@ Dados coletados em: 2025-06-08 22:11:01.899577
 Dados coletados em: 2025-06-08 23:11:05.893060
 Dados coletados em: 2025-06-09 01:03:36.471638
 Dados coletados em: 2025-06-09 03:17:08.211903
+Dados coletados em: 2025-06-09 04:24:14.722452
