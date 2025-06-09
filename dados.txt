@@ -1996,3 +1996,4 @@ Dados coletados em: 2025-06-09 12:24:13.952006
 Dados coletados em: 2025-06-09 13:26:42.309408
 Dados coletados em: 2025-06-09 14:12:44.147294
 Dados coletados em: 2025-06-09 15:13:16.624833
+Dados coletados em: 2025-06-09 16:15:18.521869
