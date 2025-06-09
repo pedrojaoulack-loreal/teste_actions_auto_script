@@ -2002,3 +2002,4 @@ Dados coletados em: 2025-06-09 18:17:32.864017
 Dados coletados em: 2025-06-09 19:09:25.377782
 Dados coletados em: 2025-06-09 20:13:45.455318
 Dados coletados em: 2025-06-09 21:11:37.621889
+Dados coletados em: 2025-06-09 22:11:52.796353
