@@ -2018,3 +2018,4 @@ Dados coletados em: 2025-06-10 12:24:57.069760
 Dados coletados em: 2025-06-10 13:28:07.800825
 Dados coletados em: 2025-06-10 14:12:45.339766
 Dados coletados em: 2025-06-10 15:13:20.326155
+Dados coletados em: 2025-06-10 16:15:19.735448
