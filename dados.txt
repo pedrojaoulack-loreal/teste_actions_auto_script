@@ -2015,3 +2015,4 @@ Dados coletados em: 2025-06-10 09:13:59.512767
 Dados coletados em: 2025-06-10 10:13:34.675492
 Dados coletados em: 2025-06-10 11:10:46.253056
 Dados coletados em: 2025-06-10 12:24:57.069760
+Dados coletados em: 2025-06-10 13:28:07.800825
