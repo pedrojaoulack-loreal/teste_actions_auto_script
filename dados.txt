@@ -2038,3 +2038,4 @@ Dados coletados em: 2025-06-11 10:13:33.781695
 Dados coletados em: 2025-06-11 11:11:18.715817
 Dados coletados em: 2025-06-11 12:24:51.949896
 Dados coletados em: 2025-06-11 13:27:35.490560
+Dados coletados em: 2025-06-11 14:11:10.848335
