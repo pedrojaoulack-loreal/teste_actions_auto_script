@@ -2380,3 +2380,4 @@ Dados coletados em: 2025-06-26 19:09:27.508341
 Dados coletados em: 2025-06-26 20:13:31.435255
 Dados coletados em: 2025-06-26 21:11:45.984488
 Dados coletados em: 2025-06-26 22:11:31.979788
+Dados coletados em: 2025-06-26 23:11:55.954997
