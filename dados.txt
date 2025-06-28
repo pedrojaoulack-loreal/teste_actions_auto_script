@@ -2418,3 +2418,4 @@ Dados coletados em: 2025-06-28 12:21:31.888581
 Dados coletados em: 2025-06-28 13:21:34.734085
 Dados coletados em: 2025-06-28 14:10:29.070518
 Dados coletados em: 2025-06-28 15:11:07.112170
+Dados coletados em: 2025-06-28 16:13:34.292981
