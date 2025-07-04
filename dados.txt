@@ -2550,3 +2550,4 @@ Dados coletados em: 2025-07-04 12:24:04.439919
 Dados coletados em: 2025-07-04 13:25:51.025764
 Dados coletados em: 2025-07-04 14:11:56.274604
 Dados coletados em: 2025-07-04 15:12:14.342917
+Dados coletados em: 2025-07-04 16:14:38.338626
