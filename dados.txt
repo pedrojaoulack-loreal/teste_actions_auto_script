@@ -2837,3 +2837,4 @@ Dados coletados em: 2025-07-17 12:25:49.654258
 Dados coletados em: 2025-07-17 13:31:41.318136
 Dados coletados em: 2025-07-17 14:11:51.158364
 Dados coletados em: 2025-07-17 15:13:56.600686
+Dados coletados em: 2025-07-17 16:16:15.797440
