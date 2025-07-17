@@ -2839,3 +2839,4 @@ Dados coletados em: 2025-07-17 14:11:51.158364
 Dados coletados em: 2025-07-17 15:13:56.600686
 Dados coletados em: 2025-07-17 16:16:15.797440
 Dados coletados em: 2025-07-17 17:12:57.160317
+Dados coletados em: 2025-07-17 18:18:25.344506
