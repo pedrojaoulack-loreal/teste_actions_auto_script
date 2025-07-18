@@ -2853,3 +2853,4 @@ Dados coletados em: 2025-07-18 06:19:40.287561
 Dados coletados em: 2025-07-18 07:16:47.864286
 Dados coletados em: 2025-07-18 08:17:41.721336
 Dados coletados em: 2025-07-18 09:16:59.411458
+Dados coletados em: 2025-07-18 10:14:18.770610
