@@ -2937,3 +2937,4 @@ Dados coletados em: 2025-07-22 01:04:28.243756
 Dados coletados em: 2025-07-22 03:23:35.372174
 Dados coletados em: 2025-07-22 04:32:45.366897
 Dados coletados em: 2025-07-22 05:18:36.851689
+Dados coletados em: 2025-07-22 06:19:42.223707
