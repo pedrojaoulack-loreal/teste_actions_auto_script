@@ -3080,3 +3080,4 @@ Dados coletados em: 2025-07-28 13:33:58.245506
 Dados coletados em: 2025-07-28 14:16:18.652186
 Dados coletados em: 2025-07-28 15:14:39.220183
 Dados coletados em: 2025-07-28 16:17:04.126248
+Dados coletados em: 2025-07-28 17:16:06.835723
