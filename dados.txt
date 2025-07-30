@@ -3130,3 +3130,4 @@ Dados coletados em: 2025-07-30 19:13:23.456472
 Dados coletados em: 2025-07-30 20:13:25.301417
 Dados coletados em: 2025-07-30 21:12:42.684538
 Dados coletados em: 2025-07-30 22:12:59.108501
+Dados coletados em: 2025-07-30 23:13:00.867023
