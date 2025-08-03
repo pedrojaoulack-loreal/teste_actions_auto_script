@@ -3212,3 +3212,4 @@ Dados coletados em: 2025-08-03 13:27:33.385983
 Dados coletados em: 2025-08-03 14:11:09.534664
 Dados coletados em: 2025-08-03 15:12:14.932306
 Dados coletados em: 2025-08-03 16:14:40.190677
+Dados coletados em: 2025-08-03 17:11:40.432227
