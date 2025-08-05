@@ -3245,3 +3245,4 @@ Dados coletados em: 2025-08-05 01:07:25.257424
 Dados coletados em: 2025-08-05 03:41:14.398576
 Dados coletados em: 2025-08-05 04:40:37.004337
 Dados coletados em: 2025-08-05 05:22:50.334387
+Dados coletados em: 2025-08-05 06:21:56.018383
