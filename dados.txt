@@ -3269,3 +3269,4 @@ Dados coletados em: 2025-08-06 04:37:40.372176
 Dados coletados em: 2025-08-06 05:24:21.328006
 Dados coletados em: 2025-08-06 06:22:03.186132
 Dados coletados em: 2025-08-06 07:19:10.298282
+Dados coletados em: 2025-08-06 08:18:34.801986
