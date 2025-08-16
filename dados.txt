@@ -3500,3 +3500,4 @@ Dados coletados em: 2025-08-16 14:10:21.203316
 Dados coletados em: 2025-08-16 15:11:10.295733
 Dados coletados em: 2025-08-16 16:13:29.077064
 Dados coletados em: 2025-08-16 17:09:44.780363
+Dados coletados em: 2025-08-16 18:15:14.820497
