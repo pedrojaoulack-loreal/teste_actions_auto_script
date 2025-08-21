@@ -3615,3 +3615,4 @@ Dados coletados em: 2025-08-21 17:15:47.339506
 Dados coletados em: 2025-08-21 18:17:46.743024
 Dados coletados em: 2025-08-21 19:09:20.408703
 Dados coletados em: 2025-08-21 20:13:02.394187
+Dados coletados em: 2025-08-21 21:10:53.270992
