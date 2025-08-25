@@ -3699,3 +3699,4 @@ Dados coletados em: 2025-08-25 10:14:02.109502
 Dados coletados em: 2025-08-25 11:10:43.507948
 Dados coletados em: 2025-08-25 12:24:24.348665
 Dados coletados em: 2025-08-25 13:25:36.087008
+Dados coletados em: 2025-08-25 14:12:29.783580
