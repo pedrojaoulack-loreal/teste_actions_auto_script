@@ -3787,3 +3787,4 @@ Dados coletados em: 2025-08-29 06:17:51.518016
 Dados coletados em: 2025-08-29 07:11:45.186760
 Dados coletados em: 2025-08-29 08:15:35.908726
 Dados coletados em: 2025-08-29 09:12:42.362551
+Dados coletados em: 2025-08-29 10:12:40.539543
