@@ -3881,3 +3881,4 @@ Dados coletados em: 2025-09-02 10:13:21.083876
 Dados coletados em: 2025-09-02 11:10:23.717639
 Dados coletados em: 2025-09-02 12:24:25.072251
 Dados coletados em: 2025-09-02 13:24:03.194656
+Dados coletados em: 2025-09-02 14:12:17.541925
