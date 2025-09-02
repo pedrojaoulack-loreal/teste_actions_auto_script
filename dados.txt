@@ -3887,3 +3887,4 @@ Dados coletados em: 2025-09-02 16:14:30.853776
 Dados coletados em: 2025-09-02 17:10:15.607893
 Dados coletados em: 2025-09-02 18:15:16.880617
 Dados coletados em: 2025-09-02 19:08:46.419760
+Dados coletados em: 2025-09-02 20:12:24.956144
