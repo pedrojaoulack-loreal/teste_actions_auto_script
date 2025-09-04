@@ -3933,3 +3933,4 @@ Dados coletados em: 2025-09-04 16:14:06.832500
 Dados coletados em: 2025-09-04 17:10:13.793585
 Dados coletados em: 2025-09-04 18:16:15.191968
 Dados coletados em: 2025-09-04 19:08:57.832661
+Dados coletados em: 2025-09-04 20:12:39.471048
