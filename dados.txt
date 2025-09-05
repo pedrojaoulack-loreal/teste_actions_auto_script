@@ -3952,3 +3952,4 @@ Dados coletados em: 2025-09-05 12:22:21.621554
 Dados coletados em: 2025-09-05 13:20:33.497710
 Dados coletados em: 2025-09-05 14:10:52.392598
 Dados coletados em: 2025-09-05 15:12:03.562513
+Dados coletados em: 2025-09-05 16:14:23.177202
