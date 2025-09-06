@@ -3960,3 +3960,4 @@ Dados coletados em: 2025-09-05 20:12:35.278038
 Dados coletados em: 2025-09-05 21:10:00.035077
 Dados coletados em: 2025-09-05 22:10:49.673280
 Dados coletados em: 2025-09-05 23:11:00.787718
+Dados coletados em: 2025-09-06 00:53:40.291065
