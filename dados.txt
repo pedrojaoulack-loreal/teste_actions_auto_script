@@ -4125,3 +4125,4 @@ Dados coletados em: 2025-09-13 00:51:27.404171
 Dados coletados em: 2025-09-13 02:09:15.454070
 Dados coletados em: 2025-09-13 03:15:27.179231
 Dados coletados em: 2025-09-13 04:12:44.673804
+Dados coletados em: 2025-09-13 05:10:44.642066
