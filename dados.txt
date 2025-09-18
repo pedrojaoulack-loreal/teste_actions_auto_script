@@ -4239,3 +4239,4 @@ Dados coletados em: 2025-09-18 00:53:44.175061
 Dados coletados em: 2025-09-18 02:16:32.763730
 Dados coletados em: 2025-09-18 03:24:36.963805
 Dados coletados em: 2025-09-18 04:14:13.953274
+Dados coletados em: 2025-09-18 05:11:21.333762
