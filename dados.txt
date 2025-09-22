@@ -4330,3 +4330,4 @@ Dados coletados em: 2025-09-21 23:10:06.628006
 Dados coletados em: 2025-09-22 01:00:00.131792
 Dados coletados em: 2025-09-22 02:40:21.638098
 Dados coletados em: 2025-09-22 03:34:26.892568
+Dados coletados em: 2025-09-22 04:14:34.328898
