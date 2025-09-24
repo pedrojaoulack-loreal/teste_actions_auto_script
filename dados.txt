@@ -4380,3 +4380,4 @@ Dados coletados em: 2025-09-24 04:14:06.324764
 Dados coletados em: 2025-09-24 05:12:09.442562
 Dados coletados em: 2025-09-24 06:18:23.864336
 Dados coletados em: 2025-09-24 07:12:02.586532
+Dados coletados em: 2025-09-24 08:16:36.222566
