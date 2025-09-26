@@ -4433,3 +4433,4 @@ Dados coletados em: 2025-09-26 11:09:52.964860
 Dados coletados em: 2025-09-26 12:23:08.499141
 Dados coletados em: 2025-09-26 13:21:36.613807
 Dados coletados em: 2025-09-26 14:10:18.780225
+Dados coletados em: 2025-09-26 15:12:15.566909
