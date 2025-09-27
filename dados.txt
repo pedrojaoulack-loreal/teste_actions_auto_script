@@ -4447,3 +4447,4 @@ Dados coletados em: 2025-09-27 02:13:18.077110
 Dados coletados em: 2025-09-27 03:21:49.175897
 Dados coletados em: 2025-09-27 04:13:59.818378
 Dados coletados em: 2025-09-27 05:11:16.672859
+Dados coletados em: 2025-09-27 06:14:59.241846
