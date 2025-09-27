@@ -4461,3 +4461,4 @@ Dados coletados em: 2025-09-27 16:12:42.276782
 Dados coletados em: 2025-09-27 17:08:35.086795
 Dados coletados em: 2025-09-27 18:14:19.844011
 Dados coletados em: 2025-09-27 19:08:10.934567
+Dados coletados em: 2025-09-27 20:11:44.326477
