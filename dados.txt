@@ -4503,3 +4503,4 @@ Dados coletados em: 2025-09-29 13:23:35.917241
 Dados coletados em: 2025-09-29 14:12:28.981566
 Dados coletados em: 2025-09-29 15:12:17.421623
 Dados coletados em: 2025-09-29 16:12:21.433974
+Dados coletados em: 2025-09-29 17:11:02.506808
