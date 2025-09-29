@@ -4508,3 +4508,4 @@ Dados coletados em: 2025-09-29 18:18:10.497509
 Dados coletados em: 2025-09-29 19:09:42.437379
 Dados coletados em: 2025-09-29 20:12:17.298191
 Dados coletados em: 2025-09-29 21:10:09.331423
+Dados coletados em: 2025-09-29 22:10:57.337950
