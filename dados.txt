@@ -4520,3 +4520,4 @@ Dados coletados em: 2025-09-30 07:12:30.085326
 Dados coletados em: 2025-09-30 08:17:25.881340
 Dados coletados em: 2025-09-30 09:13:19.173636
 Dados coletados em: 2025-09-30 10:13:02.452958
+Dados coletados em: 2025-09-30 11:10:23.108583
