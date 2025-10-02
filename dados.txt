@@ -4570,3 +4570,4 @@ Dados coletados em: 2025-10-02 12:22:09.991472
 Dados coletados em: 2025-10-02 13:20:57.891084
 Dados coletados em: 2025-10-02 14:11:49.568109
 Dados coletados em: 2025-10-02 15:12:05.043367
+Dados coletados em: 2025-10-02 16:14:27.530949
