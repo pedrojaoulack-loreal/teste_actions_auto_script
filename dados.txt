@@ -4594,3 +4594,4 @@ Dados coletados em: 2025-10-03 13:19:37.189932
 Dados coletados em: 2025-10-03 14:11:22.906624
 Dados coletados em: 2025-10-03 15:11:37.555217
 Dados coletados em: 2025-10-03 16:14:06.486991
+Dados coletados em: 2025-10-03 17:09:51.670721
