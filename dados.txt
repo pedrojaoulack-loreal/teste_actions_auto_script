@@ -4699,3 +4699,4 @@ Dados coletados em: 2025-10-08 04:14:03.030274
 Dados coletados em: 2025-10-08 05:12:27.993597
 Dados coletados em: 2025-10-08 06:18:28.773339
 Dados coletados em: 2025-10-08 07:11:36.573342
+Dados coletados em: 2025-10-08 08:16:54.017046
