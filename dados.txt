@@ -4771,3 +4771,4 @@ Dados coletados em: 2025-10-11 07:10:37.038217
 Dados coletados em: 2025-10-11 08:14:00.839595
 Dados coletados em: 2025-10-11 09:10:36.429468
 Dados coletados em: 2025-10-11 10:11:01.143511
+Dados coletados em: 2025-10-11 11:08:30.130591
