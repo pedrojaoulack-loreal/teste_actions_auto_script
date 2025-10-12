@@ -4804,3 +4804,4 @@ Dados coletados em: 2025-10-12 17:09:27.469674
 Dados coletados em: 2025-10-12 18:15:13.047751
 Dados coletados em: 2025-10-12 19:08:25.569535
 Dados coletados em: 2025-10-12 20:11:56.997640
+Dados coletados em: 2025-10-12 21:09:36.785878
