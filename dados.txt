@@ -4822,3 +4822,4 @@ Dados coletados em: 2025-10-13 12:24:21.147284
 Dados coletados em: 2025-10-13 13:24:35.131840
 Dados coletados em: 2025-10-13 14:12:33.750266
 Dados coletados em: 2025-10-13 15:12:03.268208
+Dados coletados em: 2025-10-13 16:14:49.913043
