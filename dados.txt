@@ -4832,3 +4832,4 @@ Dados coletados em: 2025-10-13 22:10:48.820234
 Dados coletados em: 2025-10-13 23:10:42.338705
 Dados coletados em: 2025-10-14 00:55:36.832287
 Dados coletados em: 2025-10-14 02:19:47.959612
+Dados coletados em: 2025-10-14 03:29:04.156681
