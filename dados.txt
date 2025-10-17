@@ -4920,3 +4920,4 @@ Dados coletados em: 2025-10-17 18:15:21.794209
 Dados coletados em: 2025-10-17 19:09:25.787190
 Dados coletados em: 2025-10-17 20:13:55.716681
 Dados coletados em: 2025-10-17 21:10:17.497618
+Dados coletados em: 2025-10-17 22:10:56.049432
