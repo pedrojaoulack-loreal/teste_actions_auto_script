@@ -4908,3 +4908,4 @@ Dados coletados em: 2025-10-17 06:17:56.257387
 Dados coletados em: 2025-10-17 07:12:02.090121
 Dados coletados em: 2025-10-17 08:17:20.884000
 Dados coletados em: 2025-10-17 09:13:37.753328
+Dados coletados em: 2025-10-17 10:13:27.816147
