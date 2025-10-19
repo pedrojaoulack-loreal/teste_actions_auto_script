@@ -4958,3 +4958,4 @@ Dados coletados em: 2025-10-19 11:08:48.867384
 Dados coletados em: 2025-10-19 12:21:24.736276
 Dados coletados em: 2025-10-19 13:17:24.826897
 Dados coletados em: 2025-10-19 14:09:44.290518
+Dados coletados em: 2025-10-19 15:10:30.613459
