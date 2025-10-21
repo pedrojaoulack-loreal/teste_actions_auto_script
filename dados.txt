@@ -5000,3 +5000,4 @@ Dados coletados em: 2025-10-21 08:17:28.505585
 Dados coletados em: 2025-10-21 09:13:49.135636
 Dados coletados em: 2025-10-21 10:13:17.270475
 Dados coletados em: 2025-10-21 11:10:24.809073
+Dados coletados em: 2025-10-21 12:25:05.956401
