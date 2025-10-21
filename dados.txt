@@ -5011,3 +5011,4 @@ Dados coletados em: 2025-10-21 19:10:32.758115
 Dados coletados em: 2025-10-21 20:14:09.352592
 Dados coletados em: 2025-10-21 21:11:18.254485
 Dados coletados em: 2025-10-21 22:11:07.695558
+Dados coletados em: 2025-10-21 23:11:34.361869
