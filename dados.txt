@@ -5003,3 +5003,4 @@ Dados coletados em: 2025-10-21 11:10:24.809073
 Dados coletados em: 2025-10-21 12:25:05.956401
 Dados coletados em: 2025-10-21 13:28:34.150479
 Dados coletados em: 2025-10-21 14:12:01.915045
+Dados coletados em: 2025-10-21 15:13:23.047809
