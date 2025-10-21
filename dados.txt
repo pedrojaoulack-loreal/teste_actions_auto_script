@@ -5008,3 +5008,4 @@ Dados coletados em: 2025-10-21 16:15:59.574359
 Dados coletados em: 2025-10-21 17:11:54.884001
 Dados coletados em: 2025-10-21 18:16:41.083115
 Dados coletados em: 2025-10-21 19:10:32.758115
+Dados coletados em: 2025-10-21 20:14:09.352592
