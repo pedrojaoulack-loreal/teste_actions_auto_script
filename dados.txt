@@ -5039,3 +5039,4 @@ Dados coletados em: 2025-10-23 00:57:19.894187
 Dados coletados em: 2025-10-23 02:24:30.280236
 Dados coletados em: 2025-10-23 03:31:55.672015
 Dados coletados em: 2025-10-23 04:14:30.820815
+Dados coletados em: 2025-10-23 05:12:37.114259
