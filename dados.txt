@@ -5095,3 +5095,4 @@ Dados coletados em: 2025-10-25 11:09:05.716766
 Dados coletados em: 2025-10-25 12:21:03.017902
 Dados coletados em: 2025-10-25 13:17:46.731783
 Dados coletados em: 2025-10-25 14:09:47.838854
+Dados coletados em: 2025-10-25 15:10:40.725925
