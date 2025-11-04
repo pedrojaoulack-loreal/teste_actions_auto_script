@@ -5328,3 +5328,4 @@ Dados coletados em: 2025-11-04 19:09:53.025314
 Dados coletados em: 2025-11-04 20:14:02.530414
 Dados coletados em: 2025-11-04 21:11:44.241068
 Dados coletados em: 2025-11-04 22:11:11.304123
+Dados coletados em: 2025-11-04 23:11:21.776591
