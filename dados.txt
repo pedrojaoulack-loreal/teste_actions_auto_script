@@ -5333,3 +5333,4 @@ Dados coletados em: 2025-11-05 01:00:23.306358
 Dados coletados em: 2025-11-05 03:05:26.835761
 Dados coletados em: 2025-11-05 04:16:05.749861
 Dados coletados em: 2025-11-05 05:13:01.688660
+Dados coletados em: 2025-11-05 06:19:08.805596
