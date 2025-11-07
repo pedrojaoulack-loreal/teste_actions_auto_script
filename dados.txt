@@ -5381,3 +5381,4 @@ Dados coletados em: 2025-11-07 04:15:21.055334
 Dados coletados em: 2025-11-07 05:12:48.223702
 Dados coletados em: 2025-11-07 06:19:08.957639
 Dados coletados em: 2025-11-07 07:12:33.316730
+Dados coletados em: 2025-11-07 08:17:41.148944
