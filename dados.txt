@@ -5399,3 +5399,4 @@ Dados coletados em: 2025-11-07 22:11:11.602590
 Dados coletados em: 2025-11-07 23:11:00.837242
 Dados coletados em: 2025-11-08 00:55:27.360928
 Dados coletados em: 2025-11-08 02:20:12.425310
+Dados coletados em: 2025-11-08 03:31:03.105945
