@@ -5429,3 +5429,4 @@ Dados coletados em: 2025-11-09 07:11:06.622781
 Dados coletados em: 2025-11-09 08:14:09.102967
 Dados coletados em: 2025-11-09 09:11:06.118655
 Dados coletados em: 2025-11-09 10:11:03.261051
+Dados coletados em: 2025-11-09 11:09:15.856660
