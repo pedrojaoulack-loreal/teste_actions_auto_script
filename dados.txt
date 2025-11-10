@@ -5458,3 +5458,4 @@ Dados coletados em: 2025-11-10 14:13:15.774418
 Dados coletados em: 2025-11-10 15:14:05.605602
 Dados coletados em: 2025-11-10 16:16:06.604798
 Dados coletados em: 2025-11-10 17:11:43.824130
+Dados coletados em: 2025-11-10 18:18:07.626471
