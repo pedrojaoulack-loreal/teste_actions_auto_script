@@ -5470,3 +5470,4 @@ Dados coletados em: 2025-11-11 03:41:42.148793
 Dados coletados em: 2025-11-11 04:17:06.372051
 Dados coletados em: 2025-11-11 05:13:21.254040
 Dados coletados em: 2025-11-11 06:19:41.743776
+Dados coletados em: 2025-11-11 07:13:15.898605
