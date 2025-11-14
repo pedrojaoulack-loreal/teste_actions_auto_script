@@ -5540,3 +5540,4 @@ Dados coletados em: 2025-11-14 04:16:20.802009
 Dados coletados em: 2025-11-14 05:12:48.499152
 Dados coletados em: 2025-11-14 06:19:43.994180
 Dados coletados em: 2025-11-14 07:13:02.261610
+Dados coletados em: 2025-11-14 08:17:16.996865
