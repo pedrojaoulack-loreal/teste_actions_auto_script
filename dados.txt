@@ -5625,3 +5625,4 @@ Dados coletados em: 2025-11-17 22:11:48.895943
 Dados coletados em: 2025-11-17 23:11:34.339142
 Dados coletados em: 2025-11-18 00:59:09.550013
 Dados coletados em: 2025-11-18 02:42:12.087033
+Dados coletados em: 2025-11-18 03:40:33.383419
