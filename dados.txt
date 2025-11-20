@@ -5683,3 +5683,4 @@ Dados coletados em: 2025-11-20 12:25:17.192105
 Dados coletados em: 2025-11-20 13:25:03.060320
 Dados coletados em: 2025-11-20 14:12:35.934286
 Dados coletados em: 2025-11-20 15:13:13.414008
+Dados coletados em: 2025-11-20 16:16:14.206726
