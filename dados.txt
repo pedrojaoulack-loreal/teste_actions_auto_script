@@ -5699,3 +5699,4 @@ Dados coletados em: 2025-11-21 05:13:19.136340
 Dados coletados em: 2025-11-21 06:19:52.608763
 Dados coletados em: 2025-11-21 07:13:25.121535
 Dados coletados em: 2025-11-21 08:18:21.111828
+Dados coletados em: 2025-11-21 09:13:35.948857
