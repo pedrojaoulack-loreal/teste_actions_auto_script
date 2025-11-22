@@ -5730,3 +5730,4 @@ Dados coletados em: 2025-11-22 13:17:58.268694
 Dados coletados em: 2025-11-22 14:10:23.709077
 Dados coletados em: 2025-11-22 15:10:40.995460
 Dados coletados em: 2025-11-22 16:13:35.423258
+Dados coletados em: 2025-11-22 17:09:46.120626
