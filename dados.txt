@@ -5916,3 +5916,4 @@ Dados coletados em: 2025-11-30 18:16:52.882882
 Dados coletados em: 2025-11-30 19:09:35.984523
 Dados coletados em: 2025-11-30 20:13:25.522996
 Dados coletados em: 2025-11-30 21:10:45.531452
+Dados coletados em: 2025-11-30 22:11:43.576514
