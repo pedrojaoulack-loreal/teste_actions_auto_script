@@ -5923,3 +5923,4 @@ Dados coletados em: 2025-12-01 03:43:47.385866
 Dados coletados em: 2025-12-01 04:42:26.398712
 Dados coletados em: 2025-12-01 05:21:35.973963
 Dados coletados em: 2025-12-01 06:21:44.310106
+Dados coletados em: 2025-12-01 07:16:49.184864
