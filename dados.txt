@@ -5990,3 +5990,4 @@ Dados coletados em: 2025-12-04 04:23:05.248587
 Dados coletados em: 2025-12-04 05:13:36.392171
 Dados coletados em: 2025-12-04 06:20:35.782160
 Dados coletados em: 2025-12-04 07:14:43.614334
+Dados coletados em: 2025-12-04 08:19:16.923670
