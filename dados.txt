@@ -6022,3 +6022,4 @@ Dados coletados em: 2025-12-05 14:13:18.690974
 Dados coletados em: 2025-12-05 15:14:06.628514
 Dados coletados em: 2025-12-05 16:16:21.787146
 Dados coletados em: 2025-12-05 17:12:50.581183
+Dados coletados em: 2025-12-05 18:16:38.979259
