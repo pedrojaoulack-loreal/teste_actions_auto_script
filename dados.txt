@@ -6006,3 +6006,4 @@ Dados coletados em: 2025-12-04 20:14:47.637530
 Dados coletados em: 2025-12-04 21:12:10.428186
 Dados coletados em: 2025-12-04 22:10:39.753370
 Dados coletados em: 2025-12-04 23:12:12.245954
+Dados coletados em: 2025-12-05 01:01:25.371866
