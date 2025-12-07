@@ -6053,3 +6053,4 @@ Dados coletados em: 2025-12-06 22:11:31.122942
 Dados coletados em: 2025-12-06 23:11:25.824825
 Dados coletados em: 2025-12-07 01:07:07.116181
 Dados coletados em: 2025-12-07 03:20:31.938506
+Dados coletados em: 2025-12-07 04:27:01.905530
