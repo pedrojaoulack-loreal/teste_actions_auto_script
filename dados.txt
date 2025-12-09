@@ -6101,3 +6101,4 @@ Dados coletados em: 2025-12-09 04:21:44.170935
 Dados coletados em: 2025-12-09 05:13:43.348614
 Dados coletados em: 2025-12-09 06:21:11.845799
 Dados coletados em: 2025-12-09 07:15:42.495562
+Dados coletados em: 2025-12-09 08:19:28.409314
