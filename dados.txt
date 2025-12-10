@@ -6120,3 +6120,4 @@ Dados coletados em: 2025-12-09 23:13:08.174464
 Dados coletados em: 2025-12-10 01:02:40.589250
 Dados coletados em: 2025-12-10 03:15:53.706665
 Dados coletados em: 2025-12-10 04:26:44.136111
+Dados coletados em: 2025-12-10 05:14:46.428590
