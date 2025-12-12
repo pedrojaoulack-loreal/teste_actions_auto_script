@@ -6168,3 +6168,4 @@ Dados coletados em: 2025-12-12 05:15:09.288126
 Dados coletados em: 2025-12-12 06:21:15.215721
 Dados coletados em: 2025-12-12 07:17:00.082137
 Dados coletados em: 2025-12-12 08:19:16.818562
+Dados coletados em: 2025-12-12 09:17:36.045687
