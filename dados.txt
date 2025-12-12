@@ -6171,3 +6171,4 @@ Dados coletados em: 2025-12-12 08:19:16.818562
 Dados coletados em: 2025-12-12 09:17:36.045687
 Dados coletados em: 2025-12-12 10:14:44.028563
 Dados coletados em: 2025-12-12 11:13:00.317201
+Dados coletados em: 2025-12-12 12:26:47.001349
