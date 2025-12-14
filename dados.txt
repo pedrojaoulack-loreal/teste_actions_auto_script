@@ -6219,3 +6219,4 @@ Dados coletados em: 2025-12-14 11:10:01.996126
 Dados coletados em: 2025-12-14 12:23:11.813024
 Dados coletados em: 2025-12-14 13:21:38.055414
 Dados coletados em: 2025-12-14 14:11:41.170567
+Dados coletados em: 2025-12-14 15:11:56.879722
