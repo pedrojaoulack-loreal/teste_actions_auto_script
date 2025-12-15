@@ -6233,3 +6233,4 @@ Dados coletados em: 2025-12-15 03:23:40.940486
 Dados coletados em: 2025-12-15 04:32:57.628182
 Dados coletados em: 2025-12-15 05:18:38.254283
 Dados coletados em: 2025-12-15 06:22:53.984983
+Dados coletados em: 2025-12-15 07:18:32.651509
