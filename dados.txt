@@ -6268,3 +6268,4 @@ Dados coletados em: 2025-12-16 16:17:53.169035
 Dados coletados em: 2025-12-16 17:17:44.365820
 Dados coletados em: 2025-12-16 18:20:32.752217
 Dados coletados em: 2025-12-16 19:13:52.587244
+Dados coletados em: 2025-12-16 20:15:35.891630
