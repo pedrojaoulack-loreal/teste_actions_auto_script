@@ -6309,3 +6309,4 @@ Dados coletados em: 2025-12-18 11:12:28.753367
 Dados coletados em: 2025-12-18 12:27:07.291252
 Dados coletados em: 2025-12-18 13:30:51.061118
 Dados coletados em: 2025-12-18 14:15:35.069943
+Dados coletados em: 2025-12-18 15:14:41.729614
