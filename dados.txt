@@ -6354,3 +6354,4 @@ Dados coletados em: 2025-12-20 11:10:15.512891
 Dados coletados em: 2025-12-20 12:22:53.286465
 Dados coletados em: 2025-12-20 13:21:41.027144
 Dados coletados em: 2025-12-20 14:11:11.684538
+Dados coletados em: 2025-12-20 15:12:01.379026
