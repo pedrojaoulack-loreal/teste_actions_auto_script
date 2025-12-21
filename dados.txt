@@ -6373,3 +6373,4 @@ Dados coletados em: 2025-12-21 08:16:50.544551
 Dados coletados em: 2025-12-21 09:12:43.929042
 Dados coletados em: 2025-12-21 10:12:41.410800
 Dados coletados em: 2025-12-21 11:10:20.534843
+Dados coletados em: 2025-12-21 12:23:45.657782
