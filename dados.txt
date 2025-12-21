@@ -6378,3 +6378,4 @@ Dados coletados em: 2025-12-21 13:22:08.730057
 Dados coletados em: 2025-12-21 14:11:47.685722
 Dados coletados em: 2025-12-21 15:11:57.432844
 Dados coletados em: 2025-12-21 16:14:18.299509
+Dados coletados em: 2025-12-21 17:10:43.782434
