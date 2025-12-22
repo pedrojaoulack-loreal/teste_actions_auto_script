@@ -6393,3 +6393,4 @@ Dados coletados em: 2025-12-22 06:22:27.408497
 Dados coletados em: 2025-12-22 07:18:14.898952
 Dados coletados em: 2025-12-22 08:20:01.397289
 Dados coletados em: 2025-12-22 09:20:16.754646
+Dados coletados em: 2025-12-22 10:14:46.398001
