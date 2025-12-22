@@ -6400,3 +6400,4 @@ Dados coletados em: 2025-12-22 13:28:49.864934
 Dados coletados em: 2025-12-22 14:13:56.283417
 Dados coletados em: 2025-12-22 15:14:07.154377
 Dados coletados em: 2025-12-22 16:16:22.159470
+Dados coletados em: 2025-12-22 17:12:09.054261
