@@ -6419,3 +6419,4 @@ Dados coletados em: 2025-12-23 10:14:45.906217
 Dados coletados em: 2025-12-23 11:12:26.289091
 Dados coletados em: 2025-12-23 12:27:13.216123
 Dados coletados em: 2025-12-23 13:30:42.574963
+Dados coletados em: 2025-12-23 14:13:43.411581
