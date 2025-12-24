@@ -6435,3 +6435,4 @@ Dados coletados em: 2025-12-24 04:29:26.774178
 Dados coletados em: 2025-12-24 05:17:40.052455
 Dados coletados em: 2025-12-24 06:21:37.008813
 Dados coletados em: 2025-12-24 07:17:39.224749
+Dados coletados em: 2025-12-24 08:19:05.208409
