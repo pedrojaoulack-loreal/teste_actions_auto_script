@@ -6461,3 +6461,4 @@ Dados coletados em: 2025-12-25 08:18:43.160458
 Dados coletados em: 2025-12-25 09:15:49.506684
 Dados coletados em: 2025-12-25 10:14:11.275202
 Dados coletados em: 2025-12-25 11:11:24.317836
+Dados coletados em: 2025-12-25 12:25:55.985525
