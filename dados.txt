@@ -6501,3 +6501,4 @@ Dados coletados em: 2025-12-27 04:25:55.720774
 Dados coletados em: 2025-12-27 05:14:32.251011
 Dados coletados em: 2025-12-27 06:19:59.142560
 Dados coletados em: 2025-12-27 07:12:39.838916
+Dados coletados em: 2025-12-27 08:17:09.932116
