@@ -6510,3 +6510,4 @@ Dados coletados em: 2025-12-27 13:23:13.142255
 Dados coletados em: 2025-12-27 14:11:35.657974
 Dados coletados em: 2025-12-27 15:12:06.316030
 Dados coletados em: 2025-12-27 16:14:32.066567
+Dados coletados em: 2025-12-27 17:11:04.795467
