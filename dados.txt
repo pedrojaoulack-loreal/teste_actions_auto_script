@@ -6541,3 +6541,4 @@ Dados coletados em: 2025-12-28 22:12:42.786536
 Dados coletados em: 2025-12-28 23:12:32.045362
 Dados coletados em: 2025-12-29 01:08:44.299372
 Dados coletados em: 2025-12-29 03:41:42.223687
+Dados coletados em: 2025-12-29 04:41:57.353587
