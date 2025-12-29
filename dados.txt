@@ -6560,3 +6560,4 @@ Dados coletados em: 2025-12-29 19:10:24.731887
 Dados coletados em: 2025-12-29 20:15:09.426287
 Dados coletados em: 2025-12-29 21:12:11.014627
 Dados coletados em: 2025-12-29 22:12:42.038019
+Dados coletados em: 2025-12-29 23:12:32.546098
