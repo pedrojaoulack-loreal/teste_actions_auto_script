@@ -6563,3 +6563,4 @@ Dados coletados em: 2025-12-29 22:12:42.038019
 Dados coletados em: 2025-12-29 23:12:32.546098
 Dados coletados em: 2025-12-30 01:03:12.329352
 Dados coletados em: 2025-12-30 03:21:12.047090
+Dados coletados em: 2025-12-30 04:32:03.451136
