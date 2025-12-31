@@ -6584,3 +6584,4 @@ Dados coletados em: 2025-12-30 21:12:55.803232
 Dados coletados em: 2025-12-30 22:12:32.627408
 Dados coletados em: 2025-12-30 23:12:10.222731
 Dados coletados em: 2025-12-31 01:04:33.339947
+Dados coletados em: 2025-12-31 03:20:39.000880
