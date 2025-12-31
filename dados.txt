@@ -6602,3 +6602,4 @@ Dados coletados em: 2025-12-31 17:11:36.588747
 Dados coletados em: 2025-12-31 18:19:00.395922
 Dados coletados em: 2025-12-31 19:10:40.348391
 Dados coletados em: 2025-12-31 20:14:01.109296
+Dados coletados em: 2025-12-31 21:12:09.586343
