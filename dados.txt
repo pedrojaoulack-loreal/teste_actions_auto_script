@@ -6618,3 +6618,4 @@ Dados coletados em: 2026-01-01 11:11:43.800687
 Dados coletados em: 2026-01-01 12:26:36.578789
 Dados coletados em: 2026-01-01 13:28:12.042336
 Dados coletados em: 2026-01-01 14:12:42.253900
+Dados coletados em: 2026-01-01 15:13:48.032521
