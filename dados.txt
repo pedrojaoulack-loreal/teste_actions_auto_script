@@ -6643,3 +6643,4 @@ Dados coletados em: 2026-01-02 14:13:20.726824
 Dados coletados em: 2026-01-02 15:13:35.151256
 Dados coletados em: 2026-01-02 16:15:40.222264
 Dados coletados em: 2026-01-02 17:11:50.236878
+Dados coletados em: 2026-01-02 18:19:32.104581
