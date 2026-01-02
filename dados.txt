@@ -6638,3 +6638,4 @@ Dados coletados em: 2026-01-02 09:17:06.819776
 Dados coletados em: 2026-01-02 10:13:54.121895
 Dados coletados em: 2026-01-02 11:12:05.006605
 Dados coletados em: 2026-01-02 12:25:49.970974
+Dados coletados em: 2026-01-02 13:27:32.519335
