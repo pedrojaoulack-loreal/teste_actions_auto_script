@@ -6669,3 +6669,4 @@ Dados coletados em: 2026-01-03 18:18:08.693075
 Dados coletados em: 2026-01-03 19:09:45.810161
 Dados coletados em: 2026-01-03 20:13:46.250837
 Dados coletados em: 2026-01-03 21:11:26.419572
+Dados coletados em: 2026-01-03 22:12:15.583326
