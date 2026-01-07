@@ -6751,3 +6751,4 @@ Dados coletados em: 2026-01-07 12:28:50.476955
 Dados coletados em: 2026-01-07 13:33:46.972765
 Dados coletados em: 2026-01-07 14:16:43.326049
 Dados coletados em: 2026-01-07 15:16:33.575005
+Dados coletados em: 2026-01-07 16:19:46.478513
