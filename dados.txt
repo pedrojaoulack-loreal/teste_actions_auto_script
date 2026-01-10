@@ -6815,3 +6815,4 @@ Dados coletados em: 2026-01-10 10:12:53.755633
 Dados coletados em: 2026-01-10 11:11:05.138421
 Dados coletados em: 2026-01-10 12:24:00.759631
 Dados coletados em: 2026-01-10 13:24:22.931273
+Dados coletados em: 2026-01-10 14:12:11.448680
