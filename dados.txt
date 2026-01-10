@@ -6807,3 +6807,4 @@ Dados coletados em: 2026-01-10 01:03:09.188001
 Dados coletados em: 2026-01-10 03:18:13.407420
 Dados coletados em: 2026-01-10 04:27:27.768274
 Dados coletados em: 2026-01-10 05:14:45.486431
+Dados coletados em: 2026-01-10 06:19:25.690276
