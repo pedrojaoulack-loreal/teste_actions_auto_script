@@ -6872,3 +6872,4 @@ Dados coletados em: 2026-01-12 23:11:16.357980
 Dados coletados em: 2026-01-13 01:01:47.442664
 Dados coletados em: 2026-01-13 03:21:40.788343
 Dados coletados em: 2026-01-13 04:32:38.150488
+Dados coletados em: 2026-01-13 05:19:09.144151
