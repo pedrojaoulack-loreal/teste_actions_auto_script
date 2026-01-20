@@ -7040,3 +7040,4 @@ Dados coletados em: 2026-01-20 15:22:11.208244
 Dados coletados em: 2026-01-20 16:24:34.670913
 Dados coletados em: 2026-01-20 17:21:50.182468
 Dados coletados em: 2026-01-20 18:24:01.222528
+Dados coletados em: 2026-01-20 20:05:40.977685
