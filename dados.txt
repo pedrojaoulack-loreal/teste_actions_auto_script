@@ -7033,3 +7033,4 @@ Dados coletados em: 2026-01-20 08:21:10.003249
 Dados coletados em: 2026-01-20 09:25:52.075252
 Dados coletados em: 2026-01-20 10:19:07.621050
 Dados coletados em: 2026-01-20 11:17:13.910442
+Dados coletados em: 2026-01-20 12:30:58.483778
