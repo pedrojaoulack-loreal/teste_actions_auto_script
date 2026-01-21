@@ -7059,3 +7059,4 @@ Dados coletados em: 2026-01-21 13:38:40.314525
 Dados coletados em: 2026-01-21 14:21:44.683150
 Dados coletados em: 2026-01-21 15:22:53.572100
 Dados coletados em: 2026-01-21 16:28:58.312867
+Dados coletados em: 2026-01-21 17:46:36.469774
