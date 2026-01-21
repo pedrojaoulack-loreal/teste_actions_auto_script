@@ -7062,3 +7062,4 @@ Dados coletados em: 2026-01-21 16:28:58.312867
 Dados coletados em: 2026-01-21 17:46:36.469774
 Dados coletados em: 2026-01-21 18:32:07.594386
 Dados coletados em: 2026-01-21 19:19:53.286098
+Dados coletados em: 2026-01-21 20:22:02.714476
