@@ -7080,3 +7080,4 @@ Dados coletados em: 2026-01-22 12:30:39.352741
 Dados coletados em: 2026-01-22 13:39:46.790528
 Dados coletados em: 2026-01-22 14:22:31.204367
 Dados coletados em: 2026-01-22 15:21:42.790321
+Dados coletados em: 2026-01-22 16:23:46.253490
