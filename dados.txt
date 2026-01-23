@@ -7099,3 +7099,4 @@ Dados coletados em: 2026-01-23 09:21:52.995975
 Dados coletados em: 2026-01-23 10:16:45.351843
 Dados coletados em: 2026-01-23 11:13:54.850945
 Dados coletados em: 2026-01-23 12:29:47.100909
+Dados coletados em: 2026-01-23 13:36:39.718194
