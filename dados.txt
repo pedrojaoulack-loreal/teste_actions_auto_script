@@ -7212,3 +7212,4 @@ Dados coletados em: 2026-01-28 12:31:14.208680
 Dados coletados em: 2026-01-28 13:41:14.428947
 Dados coletados em: 2026-01-28 14:21:49.441960
 Dados coletados em: 2026-01-28 15:23:44.734311
+Dados coletados em: 2026-01-28 16:25:54.054002
