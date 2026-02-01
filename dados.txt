@@ -7286,3 +7286,4 @@ Dados coletados em: 2026-01-31 23:14:10.916649
 Dados coletados em: 2026-02-01 01:27:38.640973
 Dados coletados em: 2026-02-01 04:22:54.746899
 Dados coletados em: 2026-02-01 05:54:39.805845
+Dados coletados em: 2026-02-01 06:39:11.598364
