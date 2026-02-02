@@ -7309,3 +7309,4 @@ Dados coletados em: 2026-02-02 04:14:36.000906
 Dados coletados em: 2026-02-02 05:57:51.778670
 Dados coletados em: 2026-02-02 07:01:02.221635
 Dados coletados em: 2026-02-02 08:32:48.061349
+Dados coletados em: 2026-02-02 09:37:27.660479
