@@ -7391,3 +7391,4 @@ Dados coletados em: 2026-02-06 07:40:04.271035
 Dados coletados em: 2026-02-06 08:31:38.433983
 Dados coletados em: 2026-02-06 09:34:31.254663
 Dados coletados em: 2026-02-06 10:30:56.565388
+Dados coletados em: 2026-02-06 11:26:36.351511
