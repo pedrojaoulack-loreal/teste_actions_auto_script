@@ -7410,3 +7410,4 @@ Dados coletados em: 2026-02-07 05:35:30.423474
 Dados coletados em: 2026-02-07 06:31:42.971575
 Dados coletados em: 2026-02-07 07:25:38.297793
 Dados coletados em: 2026-02-07 08:21:01.968845
+Dados coletados em: 2026-02-07 09:22:15.604648
