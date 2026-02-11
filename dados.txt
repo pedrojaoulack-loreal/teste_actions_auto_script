@@ -7499,3 +7499,4 @@ Dados coletados em: 2026-02-11 18:52:05.109606
 Dados coletados em: 2026-02-11 19:51:12.783365
 Dados coletados em: 2026-02-11 20:30:02.466881
 Dados coletados em: 2026-02-11 21:26:31.468074
+Dados coletados em: 2026-02-11 22:21:33.165284
