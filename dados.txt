@@ -7519,3 +7519,4 @@ Dados coletados em: 2026-02-12 19:44:21.957088
 Dados coletados em: 2026-02-12 20:25:19.875611
 Dados coletados em: 2026-02-12 21:25:56.064439
 Dados coletados em: 2026-02-12 22:22:52.860868
+Dados coletados em: 2026-02-12 23:20:29.690902
