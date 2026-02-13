@@ -7523,3 +7523,4 @@ Dados coletados em: 2026-02-12 23:20:29.690902
 Dados coletados em: 2026-02-13 01:23:59.894362
 Dados coletados em: 2026-02-13 04:12:13.955747
 Dados coletados em: 2026-02-13 05:53:47.509641
+Dados coletados em: 2026-02-13 06:49:34.078032
