@@ -7630,3 +7630,4 @@ Dados coletados em: 2026-02-18 06:52:03.550574
 Dados coletados em: 2026-02-18 07:44:35.439333
 Dados coletados em: 2026-02-18 08:35:01.604160
 Dados coletados em: 2026-02-18 09:37:46.212316
+Dados coletados em: 2026-02-18 10:35:39.039793
