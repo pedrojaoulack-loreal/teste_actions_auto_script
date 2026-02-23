@@ -7741,3 +7741,4 @@ Dados coletados em: 2026-02-23 16:44:56.720821
 Dados coletados em: 2026-02-23 17:55:14.656513
 Dados coletados em: 2026-02-23 18:51:35.589797
 Dados coletados em: 2026-02-23 19:52:40.825471
+Dados coletados em: 2026-02-23 20:35:46.098654
