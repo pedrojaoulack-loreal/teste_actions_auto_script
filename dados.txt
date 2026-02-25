@@ -7779,3 +7779,4 @@ Dados coletados em: 2026-02-25 14:03:51.577279
 Dados coletados em: 2026-02-25 15:53:15.290584
 Dados coletados em: 2026-02-25 16:59:40.164628
 Dados coletados em: 2026-02-25 18:00:29.476364
+Dados coletados em: 2026-02-25 19:44:32.960544
