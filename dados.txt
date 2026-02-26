@@ -7803,3 +7803,4 @@ Dados coletados em: 2026-02-26 19:37:29.717717
 Dados coletados em: 2026-02-26 20:27:15.710798
 Dados coletados em: 2026-02-26 21:24:59.965710
 Dados coletados em: 2026-02-26 22:24:36.640191
+Dados coletados em: 2026-02-26 23:21:36.344905
