@@ -7829,3 +7829,4 @@ Dados coletados em: 2026-02-28 01:09:53.505932
 Dados coletados em: 2026-02-28 03:47:11.031410
 Dados coletados em: 2026-02-28 04:48:25.381887
 Dados coletados em: 2026-02-28 05:27:37.183156
+Dados coletados em: 2026-02-28 06:27:09.868926
