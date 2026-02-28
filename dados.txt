@@ -7834,3 +7834,4 @@ Dados coletados em: 2026-02-28 07:20:06.033858
 Dados coletados em: 2026-02-28 08:18:36.288613
 Dados coletados em: 2026-02-28 09:18:16.936787
 Dados coletados em: 2026-02-28 10:14:31.922670
+Dados coletados em: 2026-02-28 11:12:18.832301
