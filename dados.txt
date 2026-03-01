@@ -7860,3 +7860,4 @@ Dados coletados em: 2026-03-01 12:29:47.463229
 Dados coletados em: 2026-03-01 13:33:30.927610
 Dados coletados em: 2026-03-01 14:16:56.270599
 Dados coletados em: 2026-03-01 15:14:44.985773
+Dados coletados em: 2026-03-01 16:17:56.065051
