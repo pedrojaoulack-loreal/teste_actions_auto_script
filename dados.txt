@@ -8004,3 +8004,4 @@ Dados coletados em: 2026-03-08 10:16:51.646317
 Dados coletados em: 2026-03-08 11:13:58.610116
 Dados coletados em: 2026-03-08 12:30:14.418586
 Dados coletados em: 2026-03-08 13:34:15.010612
+Dados coletados em: 2026-03-08 14:17:31.694085
