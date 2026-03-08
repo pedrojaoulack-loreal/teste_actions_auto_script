@@ -7997,3 +7997,4 @@ Dados coletados em: 2026-03-08 01:19:08.330230
 Dados coletados em: 2026-03-08 04:03:15.458297
 Dados coletados em: 2026-03-08 05:37:13.249732
 Dados coletados em: 2026-03-08 06:32:22.144608
+Dados coletados em: 2026-03-08 07:25:35.831549
