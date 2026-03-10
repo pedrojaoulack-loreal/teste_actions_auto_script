@@ -8042,3 +8042,4 @@ Dados coletados em: 2026-03-10 06:37:43.559208
 Dados coletados em: 2026-03-10 07:34:56.373510
 Dados coletados em: 2026-03-10 08:31:19.123815
 Dados coletados em: 2026-03-10 09:35:18.825648
+Dados coletados em: 2026-03-10 10:30:21.251744
