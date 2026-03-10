@@ -8050,3 +8050,4 @@ Dados coletados em: 2026-03-10 14:42:15.623264
 Dados coletados em: 2026-03-10 15:52:32.849891
 Dados coletados em: 2026-03-10 16:48:53.066470
 Dados coletados em: 2026-03-10 17:39:23.017834
+Dados coletados em: 2026-03-10 18:36:25.412442
