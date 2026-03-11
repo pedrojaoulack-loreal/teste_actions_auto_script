@@ -8070,3 +8070,4 @@ Dados coletados em: 2026-03-11 13:59:17.700783
 Dados coletados em: 2026-03-11 14:49:36.818691
 Dados coletados em: 2026-03-11 15:39:18.659352
 Dados coletados em: 2026-03-11 16:40:56.957030
+Dados coletados em: 2026-03-11 17:41:54.656079
