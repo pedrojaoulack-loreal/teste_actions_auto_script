@@ -8095,3 +8095,4 @@ Dados coletados em: 2026-03-12 18:40:42.637776
 Dados coletados em: 2026-03-12 19:36:23.850781
 Dados coletados em: 2026-03-12 20:25:16.766962
 Dados coletados em: 2026-03-12 21:24:31.979640
+Dados coletados em: 2026-03-12 22:16:50.967759
