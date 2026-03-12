@@ -8079,3 +8079,4 @@ Dados coletados em: 2026-03-11 22:19:21.324656
 Dados coletados em: 2026-03-11 23:17:36.778288
 Dados coletados em: 2026-03-12 01:12:43.021007
 Dados coletados em: 2026-03-12 04:06:07.435696
+Dados coletados em: 2026-03-12 06:42:39.823246
