@@ -8115,3 +8115,4 @@ Dados coletados em: 2026-03-13 17:27:50.796701
 Dados coletados em: 2026-03-13 18:29:59.543629
 Dados coletados em: 2026-03-13 19:25:26.074821
 Dados coletados em: 2026-03-13 20:24:12.184353
+Dados coletados em: 2026-03-13 21:24:41.862949
