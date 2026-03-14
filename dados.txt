@@ -8135,3 +8135,4 @@ Dados coletados em: 2026-03-14 16:20:32.612756
 Dados coletados em: 2026-03-14 17:18:58.466851
 Dados coletados em: 2026-03-14 18:25:46.196661
 Dados coletados em: 2026-03-14 19:20:47.205599
+Dados coletados em: 2026-03-14 20:18:16.873065
