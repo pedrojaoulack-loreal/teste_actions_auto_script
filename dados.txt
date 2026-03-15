@@ -8149,3 +8149,4 @@ Dados coletados em: 2026-03-15 10:20:35.815383
 Dados coletados em: 2026-03-15 11:18:46.447253
 Dados coletados em: 2026-03-15 12:33:50.016170
 Dados coletados em: 2026-03-15 13:40:31.505206
+Dados coletados em: 2026-03-15 14:22:29.672763
