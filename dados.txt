@@ -8166,3 +8166,4 @@ Dados coletados em: 2026-03-16 08:02:46.623551
 Dados coletados em: 2026-03-16 09:55:42.340808
 Dados coletados em: 2026-03-16 10:47:45.771564
 Dados coletados em: 2026-03-16 11:40:05.356202
+Dados coletados em: 2026-03-16 12:51:36.308443
