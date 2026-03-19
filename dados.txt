@@ -8229,3 +8229,4 @@ Dados coletados em: 2026-03-19 15:43:47.652400
 Dados coletados em: 2026-03-19 16:48:39.801290
 Dados coletados em: 2026-03-19 17:48:03.768457
 Dados coletados em: 2026-03-19 18:43:37.297138
+Dados coletados em: 2026-03-19 19:40:49.288347
