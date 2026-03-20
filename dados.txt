@@ -8238,3 +8238,4 @@ Dados coletados em: 2026-03-20 01:18:19.035563
 Dados coletados em: 2026-03-20 04:06:17.726889
 Dados coletados em: 2026-03-20 05:44:09.476597
 Dados coletados em: 2026-03-20 06:43:04.599190
+Dados coletados em: 2026-03-20 07:39:53.518726
