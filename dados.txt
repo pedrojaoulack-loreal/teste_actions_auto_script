@@ -8268,3 +8268,4 @@ Dados coletados em: 2026-03-21 12:30:00.621163
 Dados coletados em: 2026-03-21 13:36:14.849459
 Dados coletados em: 2026-03-21 14:18:54.601284
 Dados coletados em: 2026-03-21 15:17:56.090726
+Dados coletados em: 2026-03-21 16:19:05.111554
