@@ -8255,3 +8255,4 @@ Dados coletados em: 2026-03-20 20:22:20.723755
 Dados coletados em: 2026-03-20 21:22:32.465153
 Dados coletados em: 2026-03-20 22:19:11.884544
 Dados coletados em: 2026-03-20 23:20:43.542799
+Dados coletados em: 2026-03-21 01:13:49.227422
