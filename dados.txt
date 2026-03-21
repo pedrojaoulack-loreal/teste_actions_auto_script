@@ -8262,3 +8262,4 @@ Dados coletados em: 2026-03-21 06:32:43.662416
 Dados coletados em: 2026-03-21 07:27:32.488850
 Dados coletados em: 2026-03-21 08:21:51.805435
 Dados coletados em: 2026-03-21 09:23:42.738008
+Dados coletados em: 2026-03-21 10:17:51.813049
