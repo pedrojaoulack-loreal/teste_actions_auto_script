@@ -8285,3 +8285,4 @@ Dados coletados em: 2026-03-22 08:24:39.980191
 Dados coletados em: 2026-03-22 09:24:14.374758
 Dados coletados em: 2026-03-22 10:18:33.689855
 Dados coletados em: 2026-03-22 11:16:49.706841
+Dados coletados em: 2026-03-22 12:31:49.016283
