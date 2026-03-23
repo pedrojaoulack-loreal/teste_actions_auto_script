@@ -8310,3 +8310,4 @@ Dados coletados em: 2026-03-23 14:08:45.263344
 Dados coletados em: 2026-03-23 15:52:48.150505
 Dados coletados em: 2026-03-23 16:48:15.243249
 Dados coletados em: 2026-03-23 17:43:51.597830
+Dados coletados em: 2026-03-23 18:40:09.243922
