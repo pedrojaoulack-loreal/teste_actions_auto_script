@@ -8368,3 +8368,4 @@ Dados coletados em: 2026-03-26 14:21:06.120684
 Dados coletados em: 2026-03-26 16:03:51.986338
 Dados coletados em: 2026-03-26 17:53:31.909014
 Dados coletados em: 2026-03-26 18:54:17.108376
+Dados coletados em: 2026-03-26 19:50:45.642029
