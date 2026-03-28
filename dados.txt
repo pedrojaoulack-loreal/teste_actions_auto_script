@@ -8412,3 +8412,4 @@ Dados coletados em: 2026-03-28 19:23:25.391648
 Dados coletados em: 2026-03-28 20:19:55.192054
 Dados coletados em: 2026-03-28 21:21:44.716478
 Dados coletados em: 2026-03-28 22:19:49.365762
+Dados coletados em: 2026-03-28 23:22:23.422739
