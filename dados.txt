@@ -8441,3 +8441,4 @@ Dados coletados em: 2026-03-30 10:07:55.394174
 Dados coletados em: 2026-03-30 11:49:25.223031
 Dados coletados em: 2026-03-30 12:57:52.912858
 Dados coletados em: 2026-03-30 14:25:44.725275
+Dados coletados em: 2026-03-30 16:00:30.479355
