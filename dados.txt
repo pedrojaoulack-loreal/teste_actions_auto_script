@@ -8460,3 +8460,4 @@ Dados coletados em: 2026-03-31 12:56:38.962865
 Dados coletados em: 2026-03-31 14:24:50.132987
 Dados coletados em: 2026-03-31 15:59:37.120887
 Dados coletados em: 2026-03-31 17:02:22.908305
+Dados coletados em: 2026-03-31 18:49:51.041833
