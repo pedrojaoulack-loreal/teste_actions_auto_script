@@ -8464,3 +8464,4 @@ Dados coletados em: 2026-03-31 18:49:51.041833
 Dados coletados em: 2026-03-31 19:49:28.588862
 Dados coletados em: 2026-03-31 20:34:40.533190
 Dados coletados em: 2026-03-31 21:30:12.433526
+Dados coletados em: 2026-03-31 22:25:57.007755
