@@ -8490,3 +8490,4 @@ Dados coletados em: 2026-04-02 09:02:48.563653
 Dados coletados em: 2026-04-02 10:43:06.645442
 Dados coletados em: 2026-04-02 11:39:01.826064
 Dados coletados em: 2026-04-02 12:52:41.075699
+Dados coletados em: 2026-04-02 14:17:46.530697
