@@ -8557,3 +8557,4 @@ Dados coletados em: 2026-04-05 16:26:46.989380
 Dados coletados em: 2026-04-05 17:22:26.077667
 Dados coletados em: 2026-04-05 18:31:01.767795
 Dados coletados em: 2026-04-05 19:27:22.496416
+Dados coletados em: 2026-04-05 20:22:29.176930
