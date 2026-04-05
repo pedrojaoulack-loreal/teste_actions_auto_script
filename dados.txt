@@ -8552,3 +8552,4 @@ Dados coletados em: 2026-04-05 11:22:25.579511
 Dados coletados em: 2026-04-05 12:37:52.033441
 Dados coletados em: 2026-04-05 13:47:49.540325
 Dados coletados em: 2026-04-05 14:28:36.065791
+Dados coletados em: 2026-04-05 15:23:34.415966
