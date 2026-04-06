@@ -8565,3 +8565,4 @@ Dados coletados em: 2026-04-06 01:45:36.347634
 Dados coletados em: 2026-04-06 04:37:23.981228
 Dados coletados em: 2026-04-06 06:25:38.769923
 Dados coletados em: 2026-04-06 08:18:11.173957
+Dados coletados em: 2026-04-06 10:00:58.385033
