@@ -8585,3 +8585,4 @@ Dados coletados em: 2026-04-07 08:06:13.567026
 Dados coletados em: 2026-04-07 09:59:53.541947
 Dados coletados em: 2026-04-07 11:00:48.869690
 Dados coletados em: 2026-04-07 13:00:41.343167
+Dados coletados em: 2026-04-07 14:59:35.435020
