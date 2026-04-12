@@ -8668,3 +8668,4 @@ Dados coletados em: 2026-04-12 06:19:30.442219
 Dados coletados em: 2026-04-12 07:58:16.344525
 Dados coletados em: 2026-04-12 08:49:12.308772
 Dados coletados em: 2026-04-12 09:37:55.653422
+Dados coletados em: 2026-04-12 10:30:54.345510
