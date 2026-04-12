@@ -8663,3 +8663,4 @@ Dados coletados em: 2026-04-11 21:24:27.098790
 Dados coletados em: 2026-04-11 22:22:09.362065
 Dados coletados em: 2026-04-11 23:24:35.543024
 Dados coletados em: 2026-04-12 01:48:54.211747
+Dados coletados em: 2026-04-12 04:40:26.994172
