@@ -8680,3 +8680,4 @@ Dados coletados em: 2026-04-12 18:34:52.039291
 Dados coletados em: 2026-04-12 19:33:19.801187
 Dados coletados em: 2026-04-12 20:26:20.236331
 Dados coletados em: 2026-04-12 21:25:22.921046
+Dados coletados em: 2026-04-12 22:24:37.689672
