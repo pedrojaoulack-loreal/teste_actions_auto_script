@@ -8685,3 +8685,4 @@ Dados coletados em: 2026-04-12 23:26:03.417931
 Dados coletados em: 2026-04-13 01:53:42.627535
 Dados coletados em: 2026-04-13 04:51:59.739647
 Dados coletados em: 2026-04-13 07:09:58.681962
+Dados coletados em: 2026-04-13 09:28:10.338025
