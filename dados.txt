@@ -8703,3 +8703,4 @@ Dados coletados em: 2026-04-14 08:21:29.560380
 Dados coletados em: 2026-04-14 10:07:53.083088
 Dados coletados em: 2026-04-14 11:52:21.289401
 Dados coletados em: 2026-04-14 13:05:30.834222
+Dados coletados em: 2026-04-14 15:06:23.223061
