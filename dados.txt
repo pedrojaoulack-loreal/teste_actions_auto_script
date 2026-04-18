@@ -8776,3 +8776,4 @@ Dados coletados em: 2026-04-18 19:34:35.309924
 Dados coletados em: 2026-04-18 20:26:54.030750
 Dados coletados em: 2026-04-18 21:25:52.732301
 Dados coletados em: 2026-04-18 22:25:05.980212
+Dados coletados em: 2026-04-18 23:26:17.315154
