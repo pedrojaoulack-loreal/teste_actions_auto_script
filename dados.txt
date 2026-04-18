@@ -8773,3 +8773,4 @@ Dados coletados em: 2026-04-18 16:29:08.850333
 Dados coletados em: 2026-04-18 17:29:30.101488
 Dados coletados em: 2026-04-18 18:35:36.705475
 Dados coletados em: 2026-04-18 19:34:35.309924
+Dados coletados em: 2026-04-18 20:26:54.030750
