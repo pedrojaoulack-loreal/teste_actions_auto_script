@@ -8759,3 +8759,4 @@ Dados coletados em: 2026-04-17 22:29:31.509062
 Dados coletados em: 2026-04-17 23:31:11.465446
 Dados coletados em: 2026-04-18 01:27:21.099291
 Dados coletados em: 2026-04-18 04:25:12.552626
+Dados coletados em: 2026-04-18 06:08:03.243728
