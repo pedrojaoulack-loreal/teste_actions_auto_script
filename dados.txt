@@ -8779,3 +8779,4 @@ Dados coletados em: 2026-04-18 22:25:05.980212
 Dados coletados em: 2026-04-18 23:26:17.315154
 Dados coletados em: 2026-04-19 01:52:42.248951
 Dados coletados em: 2026-04-19 04:44:47.361408
+Dados coletados em: 2026-04-19 06:25:00.493725
