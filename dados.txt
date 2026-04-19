@@ -8795,3 +8795,4 @@ Dados coletados em: 2026-04-19 19:35:38.525731
 Dados coletados em: 2026-04-19 20:27:32.719485
 Dados coletados em: 2026-04-19 21:26:50.103935
 Dados coletados em: 2026-04-19 22:26:12.750318
+Dados coletados em: 2026-04-19 23:27:48.016720
