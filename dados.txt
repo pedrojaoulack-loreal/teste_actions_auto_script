@@ -8848,3 +8848,4 @@ Dados coletados em: 2026-04-23 08:49:58.218394
 Dados coletados em: 2026-04-23 10:15:29.553578
 Dados coletados em: 2026-04-23 11:54:32.148098
 Dados coletados em: 2026-04-23 13:04:34.156373
+Dados coletados em: 2026-04-23 15:44:28.719680
