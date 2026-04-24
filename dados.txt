@@ -8860,3 +8860,4 @@ Dados coletados em: 2026-04-24 04:48:41.700439
 Dados coletados em: 2026-04-24 07:00:13.184209
 Dados coletados em: 2026-04-24 09:22:33.601441
 Dados coletados em: 2026-04-24 10:58:46.333216
+Dados coletados em: 2026-04-24 11:57:48.995048
