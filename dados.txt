@@ -8919,3 +8919,4 @@ Dados coletados em: 2026-04-27 16:25:37.021346
 Dados coletados em: 2026-04-27 18:00:22.801406
 Dados coletados em: 2026-04-27 20:03:17.397778
 Dados coletados em: 2026-04-27 21:47:15.945867
+Dados coletados em: 2026-04-27 22:41:30.990957
