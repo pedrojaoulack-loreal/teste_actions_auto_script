@@ -8938,3 +8938,4 @@ Dados coletados em: 2026-04-29 08:01:57.466880
 Dados coletados em: 2026-04-29 10:47:11.079556
 Dados coletados em: 2026-04-29 12:11:12.136602
 Dados coletados em: 2026-04-29 15:04:03.967709
+Dados coletados em: 2026-04-29 17:18:34.402154
