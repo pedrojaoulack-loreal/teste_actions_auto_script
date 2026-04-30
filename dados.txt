@@ -8953,3 +8953,4 @@ Dados coletados em: 2026-04-30 15:00:25.478819
 Dados coletados em: 2026-04-30 17:09:16.190308
 Dados coletados em: 2026-04-30 19:06:15.558132
 Dados coletados em: 2026-04-30 20:51:14.704168
+Dados coletados em: 2026-04-30 21:49:37.407201
