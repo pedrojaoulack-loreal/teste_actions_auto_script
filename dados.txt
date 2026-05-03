@@ -8999,3 +8999,4 @@ Dados coletados em: 2026-05-03 12:50:14.282472
 Dados coletados em: 2026-05-03 14:06:54.417672
 Dados coletados em: 2026-05-03 15:38:30.116944
 Dados coletados em: 2026-05-03 16:38:29.648923
+Dados coletados em: 2026-05-03 17:39:19.445002
