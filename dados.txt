@@ -9030,3 +9030,4 @@ Dados coletados em: 2026-05-05 20:54:07.077831
 Dados coletados em: 2026-05-05 21:54:34.227657
 Dados coletados em: 2026-05-05 22:47:59.499234
 Dados coletados em: 2026-05-05 23:40:24.520859
+Dados coletados em: 2026-05-06 02:01:24.477958
