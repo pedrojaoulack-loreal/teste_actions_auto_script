@@ -9086,3 +9086,4 @@ Dados coletados em: 2026-05-09 23:38:13.738917
 Dados coletados em: 2026-05-10 02:05:30.176982
 Dados coletados em: 2026-05-10 05:55:51.326962
 Dados coletados em: 2026-05-10 07:59:56.980664
+Dados coletados em: 2026-05-10 09:40:47.131046
