@@ -9102,3 +9102,4 @@ Dados coletados em: 2026-05-10 22:37:22.282595
 Dados coletados em: 2026-05-10 23:41:49.917175
 Dados coletados em: 2026-05-11 02:14:14.476456
 Dados coletados em: 2026-05-11 06:29:27.030574
+Dados coletados em: 2026-05-11 10:28:57.213095
