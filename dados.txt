@@ -9107,3 +9107,4 @@ Dados coletados em: 2026-05-11 13:38:28.182991
 Dados coletados em: 2026-05-11 16:24:32.329185
 Dados coletados em: 2026-05-11 18:50:49.082580
 Dados coletados em: 2026-05-11 20:26:54.671746
+Dados coletados em: 2026-05-11 21:58:22.456443
