@@ -9140,3 +9140,4 @@ Dados coletados em: 2026-05-14 18:29:15.507631
 Dados coletados em: 2026-05-14 20:23:12.535660
 Dados coletados em: 2026-05-14 22:02:27.489241
 Dados coletados em: 2026-05-14 23:46:58.678304
+Dados coletados em: 2026-05-15 02:25:00.670785
