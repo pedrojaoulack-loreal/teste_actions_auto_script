@@ -9179,3 +9179,4 @@ Dados coletados em: 2026-05-17 14:25:27.252677
 Dados coletados em: 2026-05-17 15:51:32.938378
 Dados coletados em: 2026-05-17 16:47:16.973397
 Dados coletados em: 2026-05-17 17:50:40.734913
+Dados coletados em: 2026-05-17 18:55:07.077477
