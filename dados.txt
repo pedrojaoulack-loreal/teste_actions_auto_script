@@ -9169,3 +9169,4 @@ Dados coletados em: 2026-05-16 20:42:34.372900
 Dados coletados em: 2026-05-16 21:40:13.310645
 Dados coletados em: 2026-05-16 22:36:40.710268
 Dados coletados em: 2026-05-16 23:42:01.217588
+Dados coletados em: 2026-05-17 02:12:19.737044
