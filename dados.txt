@@ -9190,3 +9190,4 @@ Dados coletados em: 2026-05-18 10:58:46.592456
 Dados coletados em: 2026-05-18 14:29:36.367438
 Dados coletados em: 2026-05-18 17:25:52.724516
 Dados coletados em: 2026-05-18 19:25:43.200218
+Dados coletados em: 2026-05-18 21:02:33.303638
