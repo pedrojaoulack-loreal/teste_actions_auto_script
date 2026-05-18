@@ -9185,3 +9185,4 @@ Dados coletados em: 2026-05-17 21:45:16.636656
 Dados coletados em: 2026-05-17 22:44:16.326500
 Dados coletados em: 2026-05-17 23:50:37.664718
 Dados coletados em: 2026-05-18 02:32:39.495101
+Dados coletados em: 2026-05-18 06:46:46.376600
