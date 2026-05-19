@@ -9200,3 +9200,4 @@ Dados coletados em: 2026-05-19 13:50:53.002037
 Dados coletados em: 2026-05-19 16:45:15.570079
 Dados coletados em: 2026-05-19 18:53:45.020287
 Dados coletados em: 2026-05-19 20:24:46.583700
+Dados coletados em: 2026-05-19 22:07:30.618144
