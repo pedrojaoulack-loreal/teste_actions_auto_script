@@ -9209,3 +9209,4 @@ Dados coletados em: 2026-05-20 13:31:37.428741
 Dados coletados em: 2026-05-20 16:46:11.398542
 Dados coletados em: 2026-05-20 19:14:17.532887
 Dados coletados em: 2026-05-20 21:43:30.250211
+Dados coletados em: 2026-05-20 23:05:28.523236
