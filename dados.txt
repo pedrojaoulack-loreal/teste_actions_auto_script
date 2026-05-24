@@ -9250,3 +9250,4 @@ Dados coletados em: 2026-05-24 11:07:43.280951
 Dados coletados em: 2026-05-24 13:03:22.381666
 Dados coletados em: 2026-05-24 14:55:33.983155
 Dados coletados em: 2026-05-24 15:55:51.091234
+Dados coletados em: 2026-05-24 16:53:54.888357
