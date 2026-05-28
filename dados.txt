@@ -9285,3 +9285,4 @@ Dados coletados em: 2026-05-28 02:14:07.728721
 Dados coletados em: 2026-05-28 06:44:21.223986
 Dados coletados em: 2026-05-28 10:45:29.577942
 Dados coletados em: 2026-05-28 14:29:18.992692
+Dados coletados em: 2026-05-28 17:56:49.857959
