@@ -9311,3 +9311,4 @@ Dados coletados em: 2026-05-30 22:50:08.350307
 Dados coletados em: 2026-05-30 23:53:48.107257
 Dados coletados em: 2026-05-31 02:38:43.749198
 Dados coletados em: 2026-05-31 06:51:18.167093
+Dados coletados em: 2026-05-31 09:42:55.857544
