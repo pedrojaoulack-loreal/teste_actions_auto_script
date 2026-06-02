@@ -9331,3 +9331,4 @@ Dados coletados em: 2026-06-02 00:09:08.439038
 Dados coletados em: 2026-06-02 05:23:50.001835
 Dados coletados em: 2026-06-02 10:05:44.360895
 Dados coletados em: 2026-06-02 14:43:44.195375
+Dados coletados em: 2026-06-02 18:32:44.314994
