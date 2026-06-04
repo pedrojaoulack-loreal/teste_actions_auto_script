@@ -9345,3 +9345,4 @@ Dados coletados em: 2026-06-04 07:16:52.350614
 Dados coletados em: 2026-06-04 10:55:02.061773
 Dados coletados em: 2026-06-04 13:53:17.330739
 Dados coletados em: 2026-06-04 16:45:42.497825
+Dados coletados em: 2026-06-04 19:13:41.500127
