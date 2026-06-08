@@ -9382,3 +9382,4 @@ Dados coletados em: 2026-06-07 23:59:52.577460
 Dados coletados em: 2026-06-08 04:24:56.012085
 Dados coletados em: 2026-06-08 09:18:00.518472
 Dados coletados em: 2026-06-08 13:59:37.438920
+Dados coletados em: 2026-06-08 17:23:17.721241
