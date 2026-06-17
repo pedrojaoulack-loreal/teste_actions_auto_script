@@ -9453,3 +9453,4 @@ Dados coletados em: 2026-06-17 06:01:44.359238
 Dados coletados em: 2026-06-17 11:28:16.463539
 Dados coletados em: 2026-06-17 14:52:54.950892
 Dados coletados em: 2026-06-17 17:45:23.263423
+Dados coletados em: 2026-06-17 20:00:52.257343
