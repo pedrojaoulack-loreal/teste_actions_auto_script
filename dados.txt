@@ -9485,3 +9485,4 @@ Dados coletados em: 2026-06-21 00:06:23.285955
 Dados coletados em: 2026-06-21 05:53:34.068871
 Dados coletados em: 2026-06-21 09:37:04.114807
 Dados coletados em: 2026-06-21 12:05:44.482668
+Dados coletados em: 2026-06-21 15:06:48.047242
