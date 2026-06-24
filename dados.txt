@@ -9508,3 +9508,4 @@ Dados coletados em: 2026-06-24 00:01:58.767774
 Dados coletados em: 2026-06-24 04:57:47.969613
 Dados coletados em: 2026-06-24 08:20:06.581109
 Dados coletados em: 2026-06-24 11:38:42.208421
+Dados coletados em: 2026-06-24 14:08:52.927562
