@@ -9529,3 +9529,4 @@ Dados coletados em: 2026-06-26 13:03:26.480632
 Dados coletados em: 2026-06-26 16:07:30.635817
 Dados coletados em: 2026-06-26 18:23:23.483259
 Dados coletados em: 2026-06-26 20:27:05.519168
+Dados coletados em: 2026-06-26 22:03:41.107504
