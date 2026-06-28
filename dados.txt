@@ -9553,3 +9553,4 @@ Dados coletados em: 2026-06-28 16:59:02.892272
 Dados coletados em: 2026-06-28 18:05:44.811335
 Dados coletados em: 2026-06-28 20:07:00.627197
 Dados coletados em: 2026-06-28 21:54:58.697865
+Dados coletados em: 2026-06-28 22:55:12.658575
