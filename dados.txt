@@ -9555,3 +9555,4 @@ Dados coletados em: 2026-06-28 20:07:00.627197
 Dados coletados em: 2026-06-28 21:54:58.697865
 Dados coletados em: 2026-06-28 22:55:12.658575
 Dados coletados em: 2026-06-29 00:01:37.611289
+Dados coletados em: 2026-06-29 05:23:18.424368
