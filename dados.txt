@@ -9580,3 +9580,4 @@ Dados coletados em: 2026-07-01 17:07:11.652278
 Dados coletados em: 2026-07-01 19:40:00.169353
 Dados coletados em: 2026-07-01 21:18:51.215438
 Dados coletados em: 2026-07-01 23:03:11.704372
+Dados coletados em: 2026-07-02 02:29:29.546773
