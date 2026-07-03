@@ -9597,3 +9597,4 @@ Dados coletados em: 2026-07-03 12:01:07.241511
 Dados coletados em: 2026-07-03 15:01:43.858408
 Dados coletados em: 2026-07-03 17:14:15.744035
 Dados coletados em: 2026-07-03 19:03:30.583511
+Dados coletados em: 2026-07-03 20:53:48.372390
