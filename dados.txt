@@ -9606,3 +9606,4 @@ Dados coletados em: 2026-07-04 09:13:58.230085
 Dados coletados em: 2026-07-04 11:18:09.633864
 Dados coletados em: 2026-07-04 13:02:38.535773
 Dados coletados em: 2026-07-04 14:58:05.486385
+Dados coletados em: 2026-07-04 16:00:41.159303
