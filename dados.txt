@@ -9609,3 +9609,4 @@ Dados coletados em: 2026-07-04 14:58:05.486385
 Dados coletados em: 2026-07-04 16:00:41.159303
 Dados coletados em: 2026-07-04 17:57:09.330527
 Dados coletados em: 2026-07-04 19:04:50.158551
+Dados coletados em: 2026-07-04 20:43:56.188166
