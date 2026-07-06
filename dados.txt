@@ -9631,3 +9631,4 @@ Dados coletados em: 2026-07-06 08:10:50.316670
 Dados coletados em: 2026-07-06 12:37:04.518430
 Dados coletados em: 2026-07-06 16:12:32.311479
 Dados coletados em: 2026-07-06 18:49:49.520164
+Dados coletados em: 2026-07-06 20:46:46.341428
