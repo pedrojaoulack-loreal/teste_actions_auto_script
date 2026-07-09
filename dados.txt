@@ -9653,3 +9653,4 @@ Dados coletados em: 2026-07-08 17:20:10.568396
 Dados coletados em: 2026-07-08 19:09:13.026131
 Dados coletados em: 2026-07-08 20:57:12.154462
 Dados coletados em: 2026-07-08 22:02:30.672320
+Dados coletados em: 2026-07-09 00:00:37.045656
