@@ -9683,3 +9683,4 @@ Dados coletados em: 2026-07-11 14:21:05.873310
 Dados coletados em: 2026-07-11 15:45:21.354815
 Dados coletados em: 2026-07-11 16:43:37.673417
 Dados coletados em: 2026-07-11 17:46:20.055191
+Dados coletados em: 2026-07-11 18:46:39.850489
