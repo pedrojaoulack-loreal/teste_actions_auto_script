@@ -9679,3 +9679,4 @@ Dados coletados em: 2026-07-11 09:18:09.509572
 Dados coletados em: 2026-07-11 10:55:49.956865
 Dados coletados em: 2026-07-11 11:46:08.818458
 Dados coletados em: 2026-07-11 12:57:54.868375
+Dados coletados em: 2026-07-11 14:21:05.873310
