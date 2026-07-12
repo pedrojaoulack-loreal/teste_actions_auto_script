@@ -9690,3 +9690,4 @@ Dados coletados em: 2026-07-11 21:40:07.010541
 Dados coletados em: 2026-07-11 22:38:06.988774
 Dados coletados em: 2026-07-11 23:44:10.377437
 Dados coletados em: 2026-07-12 01:53:09.136062
+Dados coletados em: 2026-07-12 05:19:13.432972
