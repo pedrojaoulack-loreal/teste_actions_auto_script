@@ -9692,3 +9692,4 @@ Dados coletados em: 2026-07-11 23:44:10.377437
 Dados coletados em: 2026-07-12 01:53:09.136062
 Dados coletados em: 2026-07-12 05:19:13.432972
 Dados coletados em: 2026-07-12 08:01:34.945713
+Dados coletados em: 2026-07-12 10:18:24.544694
