@@ -9701,3 +9701,4 @@ Dados coletados em: 2026-07-12 16:48:51.000182
 Dados coletados em: 2026-07-12 17:51:58.634841
 Dados coletados em: 2026-07-12 18:52:33.611594
 Dados coletados em: 2026-07-12 20:02:00.355790
+Dados coletados em: 2026-07-12 21:39:57.546371
