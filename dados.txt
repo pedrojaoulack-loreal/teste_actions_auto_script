@@ -9732,3 +9732,4 @@ Dados coletados em: 2026-07-15 01:28:48.426381
 Dados coletados em: 2026-07-15 04:41:48.596089
 Dados coletados em: 2026-07-15 07:07:02.318204
 Dados coletados em: 2026-07-15 09:51:33.916981
+Dados coletados em: 2026-07-15 11:22:22.747561
