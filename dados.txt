@@ -9740,3 +9740,4 @@ Dados coletados em: 2026-07-15 18:56:26.553932
 Dados coletados em: 2026-07-15 20:03:37.493980
 Dados coletados em: 2026-07-15 21:49:45.874385
 Dados coletados em: 2026-07-15 22:50:31.556798
+Dados coletados em: 2026-07-15 23:51:14.479913
