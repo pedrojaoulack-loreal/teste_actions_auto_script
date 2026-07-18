@@ -9784,3 +9784,4 @@ Dados coletados em: 2026-07-18 19:58:58.923557
 Dados coletados em: 2026-07-18 20:50:47.377384
 Dados coletados em: 2026-07-18 21:40:58.705628
 Dados coletados em: 2026-07-18 22:39:26.431768
+Dados coletados em: 2026-07-18 23:43:20.343242
