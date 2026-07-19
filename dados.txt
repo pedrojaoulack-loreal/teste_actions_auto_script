@@ -9793,3 +9793,4 @@ Dados coletados em: 2026-07-19 11:48:32.537786
 Dados coletados em: 2026-07-19 12:56:40.225807
 Dados coletados em: 2026-07-19 14:21:30.217548
 Dados coletados em: 2026-07-19 15:48:35.090234
+Dados coletados em: 2026-07-19 16:46:20.256865
