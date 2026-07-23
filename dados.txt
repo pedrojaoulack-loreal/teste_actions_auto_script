@@ -9844,3 +9844,4 @@ Dados coletados em: 2026-07-23 19:00:18.144362
 Dados coletados em: 2026-07-23 20:51:24.831384
 Dados coletados em: 2026-07-23 21:57:23.993956
 Dados coletados em: 2026-07-23 22:52:58.538260
+Dados coletados em: 2026-07-23 23:53:02.400266
