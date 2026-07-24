@@ -9854,3 +9854,4 @@ Dados coletados em: 2026-07-24 14:45:46.592295
 Dados coletados em: 2026-07-24 18:11:23.407853
 Dados coletados em: 2026-07-24 20:11:11.424088
 Dados coletados em: 2026-07-24 21:56:44.872883
+Dados coletados em: 2026-07-24 22:56:49.343897
