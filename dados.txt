@@ -9865,3 +9865,4 @@ Dados coletados em: 2026-07-25 13:03:53.692926
 Dados coletados em: 2026-07-25 14:54:57.340152
 Dados coletados em: 2026-07-25 15:57:09.361651
 Dados coletados em: 2026-07-25 16:52:36.572753
+Dados coletados em: 2026-07-25 17:51:36.608102
