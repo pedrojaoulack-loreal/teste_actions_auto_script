@@ -9931,3 +9931,4 @@ Dados coletados em: 2026-07-30 20:57:01.882648
 Dados coletados em: 2026-07-30 22:07:21.402577
 Dados coletados em: 2026-07-30 23:54:09.849524
 Dados coletados em: 2026-07-31 01:58:22.436874
+Dados coletados em: 2026-07-31 05:34:53.691643
