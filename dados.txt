@@ -9952,3 +9952,4 @@ Dados coletados em: 2026-08-01 14:52:19.766565
 Dados coletados em: 2026-08-01 15:53:19.457821
 Dados coletados em: 2026-08-01 16:50:38.910147
 Dados coletados em: 2026-08-01 17:53:33.965135
+Dados coletados em: 2026-08-01 18:55:43.544440
