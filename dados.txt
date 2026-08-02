@@ -9969,3 +9969,4 @@ Dados coletados em: 2026-08-02 16:49:21.002249
 Dados coletados em: 2026-08-02 17:54:06.388765
 Dados coletados em: 2026-08-02 18:56:31.018907
 Dados coletados em: 2026-08-02 20:07:04.347239
+Dados coletados em: 2026-08-02 21:45:08.202379
