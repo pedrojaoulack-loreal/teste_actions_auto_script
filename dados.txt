@@ -9991,3 +9991,4 @@ Dados coletados em: 2026-08-04 15:16:04.210941
 Dados coletados em: 2026-08-04 17:29:23.895355
 Dados coletados em: 2026-08-04 19:19:03.665933
 Dados coletados em: 2026-08-04 21:02:09.240143
+Dados coletados em: 2026-08-04 22:52:47.031303
