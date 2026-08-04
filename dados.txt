@@ -9983,3 +9983,4 @@ Dados coletados em: 2026-08-03 20:55:24.693170
 Dados coletados em: 2026-08-03 21:59:07.850904
 Dados coletados em: 2026-08-03 23:01:33.412320
 Dados coletados em: 2026-08-04 01:44:05.427905
+Dados coletados em: 2026-08-04 04:55:02.755367
