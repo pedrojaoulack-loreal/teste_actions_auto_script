@@ -10030,3 +10030,4 @@ Dados coletados em: 2026-08-07 21:29:06.719854
 Dados coletados em: 2026-08-07 22:26:00.176351
 Dados coletados em: 2026-08-07 23:25:19.585904
 Dados coletados em: 2026-08-08 00:57:57.983324
+Dados coletados em: 2026-08-08 02:52:45.180226
