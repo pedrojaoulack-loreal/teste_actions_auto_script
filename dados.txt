@@ -10112,3 +10112,4 @@ Dados coletados em: 2026-08-11 21:35:48.854776
 Dados coletados em: 2026-08-11 22:32:23.489156
 Dados coletados em: 2026-08-11 23:30:23.827661
 Dados coletados em: 2026-08-12 01:10:08.092281
+Dados coletados em: 2026-08-12 03:56:10.559962
