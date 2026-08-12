@@ -10125,3 +10125,4 @@ Dados coletados em: 2026-08-12 16:47:05.093642
 Dados coletados em: 2026-08-12 17:51:15.072831
 Dados coletados em: 2026-08-12 18:49:59.701654
 Dados coletados em: 2026-08-12 19:56:11.201470
+Dados coletados em: 2026-08-12 20:36:05.972620
