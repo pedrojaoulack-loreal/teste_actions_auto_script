@@ -10180,3 +10180,4 @@ Dados coletados em: 2026-08-15 12:19:24.230338
 Dados coletados em: 2026-08-15 13:22:57.672551
 Dados coletados em: 2026-08-15 14:12:56.646649
 Dados coletados em: 2026-08-15 15:11:11.218812
+Dados coletados em: 2026-08-15 16:13:34.179761
