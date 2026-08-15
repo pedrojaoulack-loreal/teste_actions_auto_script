@@ -10165,3 +10165,4 @@ Dados coletados em: 2026-08-14 20:22:05.055069
 Dados coletados em: 2026-08-14 21:16:44.129781
 Dados coletados em: 2026-08-14 22:13:04.003424
 Dados coletados em: 2026-08-14 23:12:51.102443
+Dados coletados em: 2026-08-15 00:42:38.276266
