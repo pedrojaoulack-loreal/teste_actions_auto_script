@@ -10209,3 +10209,4 @@ Dados coletados em: 2026-08-16 18:15:13.704343
 Dados coletados em: 2026-08-16 19:14:08.988983
 Dados coletados em: 2026-08-16 20:11:21.520341
 Dados coletados em: 2026-08-16 21:11:32.770120
+Dados coletados em: 2026-08-16 22:11:14.241708
