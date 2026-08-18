@@ -10255,3 +10255,4 @@ Dados coletados em: 2026-08-18 19:20:49.215490
 Dados coletados em: 2026-08-18 20:12:59.219025
 Dados coletados em: 2026-08-18 21:14:22.583276
 Dados coletados em: 2026-08-18 22:12:40.457054
+Dados coletados em: 2026-08-18 23:13:10.410198
