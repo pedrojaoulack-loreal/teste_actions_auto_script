@@ -10238,3 +10238,4 @@ Dados coletados em: 2026-08-18 02:09:56.278060
 Dados coletados em: 2026-08-18 03:36:18.703030
 Dados coletados em: 2026-08-18 04:25:54.234854
 Dados coletados em: 2026-08-18 05:19:51.153373
+Dados coletados em: 2026-08-18 06:26:52.393220
