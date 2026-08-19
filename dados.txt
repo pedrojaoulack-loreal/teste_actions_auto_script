@@ -10269,3 +10269,4 @@ Dados coletados em: 2026-08-19 10:19:08.972139
 Dados coletados em: 2026-08-19 11:16:22.259793
 Dados coletados em: 2026-08-19 12:26:29.202155
 Dados coletados em: 2026-08-19 13:36:47.289923
+Dados coletados em: 2026-08-19 14:23:36.991748
