@@ -10325,3 +10325,4 @@ Dados coletados em: 2026-08-21 20:15:02.041048
 Dados coletados em: 2026-08-21 21:14:21.870066
 Dados coletados em: 2026-08-21 22:13:44.866270
 Dados coletados em: 2026-08-21 23:14:46.023948
+Dados coletados em: 2026-08-22 00:42:37.062548
