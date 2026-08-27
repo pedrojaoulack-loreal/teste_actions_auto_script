@@ -10435,3 +10435,4 @@ Dados coletados em: 2026-08-26 16:10:23.330321
 Dados coletados em: 2026-08-26 18:50:16.436509
 Dados coletados em: 2026-08-26 21:29:46.496940
 Dados coletados em: 2026-08-27 02:26:32.268351
+Dados coletados em: 2026-08-27 13:23:19.409015
