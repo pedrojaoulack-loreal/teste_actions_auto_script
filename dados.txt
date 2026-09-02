@@ -10460,3 +10460,4 @@ Dados coletados em: 2026-09-01 10:49:44.445116
 Dados coletados em: 2026-09-01 15:19:27.075409
 Dados coletados em: 2026-09-01 19:01:46.700740
 Dados coletados em: 2026-09-01 22:12:40.199557
+Dados coletados em: 2026-09-02 00:41:25.035972
