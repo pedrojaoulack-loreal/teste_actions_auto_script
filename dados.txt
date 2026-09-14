@@ -10543,3 +10543,4 @@ Dados coletados em: 2026-09-13 16:50:16.250284
 Dados coletados em: 2026-09-13 19:07:59.726735
 Dados coletados em: 2026-09-13 21:57:29.427881
 Dados coletados em: 2026-09-13 23:52:22.049235
+Dados coletados em: 2026-09-14 02:33:02.765734
