@@ -10630,3 +10630,4 @@ Dados coletados em: 2026-09-28 06:07:47.556123
 Dados coletados em: 2026-09-28 14:44:30.490207
 Dados coletados em: 2026-09-28 20:56:21.776826
 Dados coletados em: 2026-09-29 00:46:38.065331
+Dados coletados em: 2026-09-29 06:25:20.533257
