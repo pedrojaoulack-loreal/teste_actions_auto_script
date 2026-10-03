@@ -10650,3 +10650,4 @@ Dados coletados em: 2026-10-02 19:40:45.923708
 Dados coletados em: 2026-10-02 23:26:35.869503
 Dados coletados em: 2026-10-03 03:02:45.202188
 Dados coletados em: 2026-10-03 09:32:20.977948
+Dados coletados em: 2026-10-03 14:28:28.317336
