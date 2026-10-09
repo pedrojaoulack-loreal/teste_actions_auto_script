@@ -10676,3 +10676,4 @@ Dados coletados em: 2026-10-08 20:23:07.554524
 Dados coletados em: 2026-10-09 00:51:20.364740
 Dados coletados em: 2026-10-09 07:00:05.594101
 Dados coletados em: 2026-10-09 14:14:52.516705
+Dados coletados em: 2026-10-09 19:55:30.988298
