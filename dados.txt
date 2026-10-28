@@ -10778,3 +10778,4 @@ Dados coletados em: 2026-10-27 13:47:35.728903
 Dados coletados em: 2026-10-27 19:06:16.046055
 Dados coletados em: 2026-10-27 23:22:26.849867
 Dados coletados em: 2026-10-28 03:12:57.975849
+Dados coletados em: 2026-10-28 10:10:32.636452
