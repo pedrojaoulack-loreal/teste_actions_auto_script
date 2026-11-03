@@ -10805,3 +10805,4 @@ Dados coletados em: 2026-11-02 11:52:04.325939
 Dados coletados em: 2026-11-02 21:07:51.372654
 Dados coletados em: 2026-11-03 03:11:29.787858
 Dados coletados em: 2026-11-03 11:29:30.418869
+Dados coletados em: 2026-11-03 18:51:30.488041
