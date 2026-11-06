@@ -10815,3 +10815,4 @@ Dados coletados em: 2026-11-05 08:45:49.291855
 Dados coletados em: 2026-11-05 16:57:58.340269
 Dados coletados em: 2026-11-05 22:31:49.506749
 Dados coletados em: 2026-11-06 02:58:23.473834
+Dados coletados em: 2026-11-06 10:26:02.452643
