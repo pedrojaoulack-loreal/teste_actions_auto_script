@@ -10868,3 +10868,4 @@ Dados coletados em: 2026-11-19 19:18:45.716759
 Dados coletados em: 2026-11-20 01:33:10.949205
 Dados coletados em: 2026-11-20 09:28:05.451809
 Dados coletados em: 2026-11-20 18:09:41.487981
+Dados coletados em: 2026-11-21 00:31:21.027817
